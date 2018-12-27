@@ -14,21 +14,21 @@ A pdf version is available for [download here](https://github.com/nateraluis/cv/
 ---------------------------
 ---------------------------
 
-- Ph.D. Network Science, Central European University, Budapest, 2020 (expected)
+**Ph.D.** Network Science, Central European University, Budapest, 2020 (expected)
 Dissertation: *Multilayer Urban Networks*
 Advisors: Michael Szell and Gerardo Iñiguez
 
-- M.A. Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
+**M.S.** Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
 
-- B.A. Architecture, ITESO, Tlaquepaque. Mexico, 2010
+**B.A.** Architecture, ITESO, Tlaquepaque. Mexico, 2010
 
 # Academic Affiliations
 ---------------------------
 ---------------------------
 
-- Executive Coordinator Signa\_Lab, Department of Sociocultural Studies, ITESO, Tlaquepaque. Mexico
+Executive Coordinator Signa\_Lab, Department of Sociocultural Studies, ITESO, Tlaquepaque. Mexico
 
-- Visiting Student, Center for Civic Media, Media Lab, Massachusett Institute of Technology, Cambridge, MA. USA
+Visiting Student, Center for Civic Media, Media Lab, Massachusett Institute of Technology, Cambridge, MA. USA
 
 # Research and Teaching Interests
 ---------------------------
