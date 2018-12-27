@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Luis G. Natera Orozco"
   avatar           : "profile.png"
-  bio              : "Network Science <br> Ph.D. Candidate"
+  bio              : "Network Science<br>Ph.D. Candidate<br>Department of Network and Data Science.<br>Central European University<br>Budapest, Hungary"
   location         :
-  employer         : Department of Network and Data Science.<br>Central European University<br>Budapest, Hungary
+  employer         :
   googlescholar    : "https://scholar.google.hu/citations?user=jZLYL_IAAAAJ&hl=en"
   email            : "natera_luis@phd.ceu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
