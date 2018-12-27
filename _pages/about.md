@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Luis G. Natera"
-excerpt: "Network Scientist" #About Me
+title: "Luis G. Natera // Network Scientist"
+excerpt: "Network Scientist"
 author_profile: true
 redirect_from:
   - /about/
