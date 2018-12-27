@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Luis Guillermo Natera"
   avatar           : "profile.png"
-  bio              : "Network Science \n Ph.D. Candidate"
+  bio              : Network Science \n Ph.D. Candidate
   location         : "Hungary"
-  employer         : "Department of Network and Data Science. Central European University"
+  employer         : Department of Network and Data Science. Central European University
   googlescholar    : "https://scholar.google.hu/citations?user=jZLYL_IAAAAJ&hl=en"
   email            : "natera_luis@phd.ceu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
