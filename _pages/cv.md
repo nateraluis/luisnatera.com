@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-#Education
+# Education
 =========
 
 Network Science, Central European University, Budapest, 2020 (expected)\
@@ -19,7 +19,7 @@ Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
 
 Architecture, ITESO, Tlaquepaque. Mexico, 2010
 
-#Academic Affiliations
+# Academic Affiliations
 =====================
 
 Executive Coordinator Signa\_Lab, Department of Sociocultural Studies,
@@ -28,7 +28,7 @@ ITESO, Tlaquepaque. Mexico
 Visiting Student, Center for Civic Media, Media Lab, Massachusetts
 Institute of Technology, Cambridge, MA. USA
 
-#Research and Teaching Interests
+# Research and Teaching Interests
 ===============================
 
 -   Network science
@@ -39,10 +39,10 @@ Institute of Technology, Cambridge, MA. USA
 
 -   Data science and data visualization
 
-#Publications
+# Publications
 ============
 
-##Peer-Reviewed Book Chapters
+## Peer-Reviewed Book Chapters
 ---------------------------
 
 Natera Orozco, L G., Reguillo, R. "Comunicación y cambio social:
@@ -54,20 +54,20 @@ Natera Orozco, L G. "Un cambio de la comunicación gubernamental y
 política. De los medios de comunicación a las redes sociales." *Informe
 Anual Q Medios 2018*, edited by Bernal, G. Jalisco, Mexico: ITESO.
 
-##Reviews and Other Articles
+## Reviews and Other Articles
 --------------------------
 
 Natera Orozco, L G. (as Signa\_Lab) "Battle of the hashtags: Mapping the
 online conversation surrounding Mexico's gas price" *Global Voices.*
 
-##Proceedings, Reports, and Working Papers
+## Proceedings, Reports, and Working Papers
 ----------------------------------------
 
 Natera Orozco, L G. "Comunicación, ciudad e internet: flujos de
 información urbana en entornos digitales" VI Seminatio Internacional de
 Investigación en Urbanismo. Bogota, Colombia.
 
-##Posters
+## Posters
 -------
 
 Natera Orozco, L G. "Budapest. Multilayer urban network" State of the
@@ -76,7 +76,7 @@ Map. Milan, Italy.
 Natera Orozco, L G., Ábrego, V. "The evolution of twitter during the US
 elections" Data Stories. Budapest, Hungary.
 
-#Invited Talks
+# Invited Talks
 =============
 
 "Ciencia de redes para la ciudad" Signa\_Lab, ITESO. Tlaquepaque,
@@ -89,10 +89,10 @@ Centro Cultural de España en México. Mexico City, Mexico.
 ciudades y territorios incluyentes \"Derecho a la Ciudad\", Universidad
 Autónoma de Yucatán. Merida, Mexico.
 
-#Conference Activity
+# Conference Activity
 ===================
 
-##Conference Presentations
+## Conference Presentations
 ------------------------
 
 Presenting author *italicized*, if other.
@@ -104,7 +104,7 @@ Turin, Italy.
 Natera Orozco, L G. "Quiosco Libre, reading network in the public space"
 Future of Places. Stockholm, Sweden.
 
-#Fellowships, Grants, and Awards
+# Fellowships, Grants, and Awards
 ===============================
 
 Travel grant. Department of Network and Data Science, Central European
@@ -114,10 +114,10 @@ Academic Stay at MIT. Mexican National Council of Science and Technology
 
 Master Studies Grant. Mexican National Council of Science and Technology
 
-#Teaching Experience
+# Teaching Experience
 ===================
 
-##ITESO
+## ITESO
 -----
 
 Network Science (Summer 2017) Co-taught with Emma Towlson (Northeastern
@@ -128,7 +128,7 @@ Communication, Culture and Society (Spring 2016, 2017)
 
 Social Systems Theory (Fall 2015, 2016)
 
-#Research Experience
+# Research Experience
 ===================
 
 Researcher, Anillo Primavera. Principal Investigator: Sandra Valdes.
@@ -140,28 +140,28 @@ Investigator: Ellery Biddle.
 Researcher, Public Transportation in Guadalajara. Principal
 Investigator: Mario Silva.
 
-#Academic Visits
+# Academic Visits
 ===============
 
 Center for Civic Media, MIT Media Lab, Boston, USA, Jan - Jun
 
-#Service {#service .unnumbered}
+# Service {#service .unnumbered}
 =======
 
-##Service to Department
+## Service to Department
 ---------------------
 
 -   Co-organizer Data Stories visualization exhibition, Central European
     University, DNDS, 2018-19
 
-#Professional Affiliations
+# Professional Affiliations
 =========================
 
 -   Python Software Foundation
 
 -   SICC Italian Society for Chaos and Complexity
 
-#Professional Experience
+# Professional Experience
 =======================
 
 Consultant on networks and data science
@@ -173,7 +173,7 @@ Socialinks, Networks Consultant. Guadalajara, Mexico.
 Institute for Mobility and Transportation of the State of Jalisco,
 Mobility Analyst. Zapopan, Mexico.
 
-#Skills and Methods
+# Skills and Methods
 ==================
 
 Statistical and Computational Methods
@@ -191,7 +191,7 @@ Statistical and Computational Methods
 
 -   Other: LaTeX, Adobe CS, CAD
 
-#Languages
+# Languages
 ---------
 
 -   Spanish Native
