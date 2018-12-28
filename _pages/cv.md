@@ -14,8 +14,8 @@ A pdf version is available for [download here](https://github.com/nateraluis/cv/
 ---------------------------
 ---------------------------
 
-**Ph.D.** Network Science, Central European University, Budapest, 2020 (expected)
-Dissertation: *Multilayer Urban Networks*
+**Ph.D.** Network Science, Central European University, Budapest, 2020 (expected)  
+Dissertation: *Multilayer Urban Networks*  
 Advisors: Michael Szell and Gerardo Iñiguez
 
 **M.S.** Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
@@ -26,9 +26,9 @@ Advisors: Michael Szell and Gerardo Iñiguez
 ---------------------------
 ---------------------------
 
-- 2016 - 2017 Executive Coordinator Signa\_Lab, Department of Sociocultural Studies, ITESO, Tlaquepaque. Mexico
+- **2016 - 2017** Executive Coordinator Signa\_Lab, Department of Sociocultural Studies, ITESO, Tlaquepaque. Mexico
 
-- 2015 Visiting Student, Center for Civic Media, Media Lab, Massachusett Institute of Technology, Cambridge, MA. USA
+- **2015** Visiting Student, Center for Civic Media, Media Lab, Massachusett Institute of Technology, Cambridge, MA. USA
 
 # Research and Teaching Interests
 ---------------------------
@@ -97,11 +97,11 @@ Presenting author *italicized*, if other.
 ---------------------------
 ---------------------------
 
-2018. Travel grant. Department of Network and Data Science, Central European University
+- **2018** Travel grant. Department of Network and Data Science, Central European University
 
-2015. Academic Stay at MIT. Mexican National Council of Science and Technology
+- **2015** Academic Stay at MIT. Mexican National Council of Science and Technology
 
-2013. Master Studies Grant. Mexican National Council of Science and Technology
+- **2013** Master Studies Grant. Mexican National Council of Science and Technology
 
 # Teaching Experience
 ---------------------------
@@ -110,27 +110,27 @@ Presenting author *italicized*, if other.
 ## ITESO
 -----
 
-2017. Network Science (Summer 2017) Co-taught with Emma Towlson (Northeastern University), Sean P. Cornelius (Northeastern University), and Ricardo Zavala (ITESO).
+- **2017** Network Science (Summer 2017) Co-taught with Emma Towlson (Northeastern University), Sean P. Cornelius (Northeastern University), and Ricardo Zavala (ITESO).
 
-2015 - 2017. Communication, Culture and Society (Spring 2016, 2017)
+- **2015 - 2017** Communication, Culture and Society (Spring 2016, 2017)
 
-2015 - 2016. Social Systems Theory (Fall 2015, 2016)
+- **2015 - 2016** Social Systems Theory (Fall 2015, 2016)
 
 # Research Experience
 ---------------------------
 ---------------------------
 
-2015 - 2017. Researcher, Anillo Primavera. Principal Investigator: Sandra Valdes.
+- **2015 - 2017** Researcher, Anillo Primavera. Principal Investigator: Sandra Valdes.
 
-2016. Researcher, Online harassment of journalists and activists in Mexico, Jigsaw (formerly Google Ideas) and Global Voices. Principal Investigator: Ellery Biddle.
+- **2016** Researcher, Online harassment of journalists and activists in Mexico, Jigsaw (formerly Google Ideas) and Global Voices. Principal Investigator: Ellery Biddle.
 
-2012. Researcher, Public Transportation in Guadalajara. Principal Investigator: Mario Silva.
+- **2012** Researcher, Public Transportation in Guadalajara. Principal Investigator: Mario Silva.
 
 # Academic Visits
 ---------------------------
 ---------------------------
 
-- 2015. Center for Civic Media, MIT Media Lab, Boston, USA, Jan - Jun
+- **2015** Center for Civic Media, MIT Media Lab, Boston, USA, Jan - Jun
 
 # Service
 ---------------------------
