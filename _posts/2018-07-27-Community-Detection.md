@@ -86,4 +86,4 @@ save = False
 name = 'Guadalajara'
 fig, ax = ox.plot_graph(G_drive, bgcolor='black', node_color=nc, node_size=8.5, node_zorder=3, node_alpha=1, edge_linewidth=0.25, edge_color='white',edge_alpha=1,fig_height=20,close=True, show=True, save=save, filename=name, file_format='png')
 ```
-![](/images/Guadalajara_2.png)
+![](/images/Guadalajara.png)
