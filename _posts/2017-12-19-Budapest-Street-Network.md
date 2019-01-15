@@ -10,7 +10,7 @@ tags:
 
 How can we understand a city through its infrastructure networks? This question was the starting point for my final project in the [Data Visualization class](https://courses.ceu.edu/courses/data-and-network-visualization-0) taught by Roberta Sinatra. The goal of the class was to gain insight into a data set through visualization.  
 
-The selected city to analyze was Budapest, an obvious choice now that I’m living here and also because I wanted to better understand the city. To get the data and build the network I used OSMnx, a python library developed by Geoff Boeing. I used OSMnx to download the city data from OpenStreetMap and build the network using the streets as edges and the intersections between two streets as nodes. For the project, I worked with 4 square kilometers of Budapest city center. First I visualized the city network assigning the width of the edges - streets - according to the type of street, to show where the main streets are in the city and how they are connected.
+The selected city to analyze was Budapest, an obvious choice now that I’m living here and also because I wanted to better understand the city. To get the data and build the network I used (OSMnx)[https://github.com/gboeing/osmnx], a python library developed by (Geoff Boeing)[https://geoffboeing.com/]. I used OSMnx to download the city data from OpenStreetMap and build the network using the streets as edges and the intersections between two streets as nodes. For the project, I worked with 4 square kilometers of Budapest city center. First I visualized the city network assigning the width of the edges - streets - according to the type of street, to show where the main streets are in the city and how they are connected.
 
 ![](/images/BudapestStreets.png)
 
