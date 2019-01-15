@@ -17,7 +17,7 @@ The selected city to analyze was Budapest, an obvious choice now that I’m livi
 
 As we know from the network science literature, a network’s topology determines its resilience, so the next step to better understand Budapest, a city with a river in the middle, was to work with the network and test its attack tolerance. In short, I calculated the betweenness centrality of all the street intersections of the network, drew the network with the size of the nodes according to their betweenness centrality and removed the one with the highest betweenness one by one. This approach lets us simulate how the network changes if we “close” or remove the intersection that is in the middle of the shortest paths between all the other intersections.
 
-<img src="/images/BudapestGIF.gif" alt="Budapest attack tolerance" class="center" style="width:450px;"/>  
+![](/images/BudapestGIF.gif)
 
 The video shows us this simulation of calculating the betweenness centrality and removing the nodes with the highest one. It also shows the fraction of nodes removed and how many connected components the network has, and we can observe that only removing less than 2% of the nodes leads to more than 3 different connected components in the network, meaning that we are isolating some parts of the city. The most important intersections that hold together the street network of central Budapest correspond to the bridges that connect Buda and Pest over the Danube: Margaret Bridge, Chain Bridge, and Elisabeth Bridge.  
 
