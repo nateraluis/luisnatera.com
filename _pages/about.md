@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "Luis G. Natera Orozco // Network Scientist"
+title: "Luis G. Natera Orozco"
+excerpt: "Network Scientist"
 author_profile: true
 redirect_from:
   - /about/
