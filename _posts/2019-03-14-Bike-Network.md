@@ -1,7 +1,7 @@
 ---
 title: 'Bike Sharing Data for Planning'
-date: 2019-03-14
-permalink: /posts/2019/03/MiBici-en/
+date: 2019-03-07
+permalink: /posts/2019/07/MiBici-en/
 tags:
   - Urban Mobility
   - Bikes
