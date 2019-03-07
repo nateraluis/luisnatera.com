@@ -1,7 +1,7 @@
 ---
-title: 'Mi Bici + Redes'
-date: 2019-03-14
-permalink: /posts/2019/03/MiBici-es/
+title: 'Bike Sharing Data for Planning'
+date: 2019-03-07
+permalink: /posts/2019/07/MiBici-en/
 tags:
   - Urban Mobility
   - Bikes
@@ -14,10 +14,10 @@ At the beginning of the year Guadalajara's bike share system saw an increase in 
 To increase the subscriptions of a public bike system is always good news, it means that more people are willing to move around the city by bike. And with this a question come into mind, how are people moving around? Where are they going? and more important, how can we see those trips to plan new infrastructure to keep promoting the use of the bicycle as a mobility option?
 
 ## Data
-With these questions in mind, I started to play around with some data from [MiBici](https://mibici.net). The specific dataset is from January 2019 and contains all the trips made, the origin-destination, time when the bike was taken and returned. This allows me to build a network, using the stations as nodes and the trips as links. I aggregated the number of trips between stations as the weight of the link.
+With these questions in mind, I started to play around with some data from [MiBici](https://mibici.net). The specific dataset is from January 2019 and contains 405,169 trips, the origin-destination, time when the bike was taken and returned. This allows me to build a network, using the stations as nodes and the trips as links. I aggregated the number of trips between stations as the weight of the link.
 
 ## Results
-The first result is the bellow network, where we can see the evolution of the network by day, the size of the stations represent the number of originated trips, while the color and thickness of the links represent the trips made between two stations.
+The first result is the network bellow, where we can see the evolution of the network by day, the size of the stations represent the number of originated trips, while the color and thickness of the links represent the trips made between two stations.
 
 ![](/images/MiBici_Day.gif)
 
@@ -32,3 +32,6 @@ With the streets data and stations locations, I used [Dijikstra's algorithm](htt
 When we aggregate all the day trips we obtain a clear image of the most used streets for biking. The resulting network could be used as a validation point for investing in bicycle infrastructure, we see some of the main avenues highlighted in red, indicating their importance in the biking system.
 
 ![](/images/GDL_Bikes_Streets.png)
+
+---
+The code for the analysis and the plots is available in this [GitHub repo.](https://github.com/nateraluis/DataVisualization)
