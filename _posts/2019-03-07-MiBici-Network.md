@@ -9,9 +9,8 @@ tags:
   - Networks
 ---
 
----
-To read the [english version.](https://luisnatera.com/posts/2019/07/MiBici-en/)
----
+
+[To read the [english version.](https://luisnatera.com/posts/2019/07/MiBici-en/)]
 
 Durante los primeros días de Enero más de [600 nuevos usuarios](https://www.informador.mx/jalisco/MiBici-gana-61-usuarios-al-dia-durante-periodo-de-desabasto-20190112-0015.html) se unieron al servicio de MiBici producto del desabasto de gasolina que se vivía en la ciudad.
 

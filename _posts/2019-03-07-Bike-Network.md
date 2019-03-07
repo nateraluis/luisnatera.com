@@ -1,13 +1,15 @@
 ---
 title: 'Bike Sharing Data for Planning'
 date: 2019-03-07
-permalink: /posts/2019/07/MiBici-en/
+permalink: /posts/2019/03/MiBici-en/
 tags:
   - Urban Mobility
   - Bikes
   - Data Visualization
   - Networks
 ---
+
+[Version en [español](https://luisnatera.com/posts/2019/03/MiBici-es/)]
 
 At the beginning of the year Guadalajara's bike share system saw an increase in users per day, during the first days of January more than 600 new users join the [program](https://www.informador.mx/jalisco/MiBici-gana-61-usuarios-al-dia-durante-periodo-de-desabasto-20190112-0015.html), this in part due to the [shortage of gasoline](https://edition.cnn.com/2019/01/11/americas/mexico-gasoline-shortage/index.html) in gasoline.
 
