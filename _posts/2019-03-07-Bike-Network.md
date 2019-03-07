@@ -21,7 +21,7 @@ With these questions in mind, I started to play around with some data from [MiBi
 ## Results
 The first result is the network bellow, where we can see the evolution of the network by day, the size of the stations represent the number of originated trips, while the color and thickness of the links represent the trips made between two stations.
 
-![](/images/MiBici_Day.gif)
+![](/images/MiBici_Month.gif)
 
 The first thing we can notice is that the central part of the city is the most active one, this makes sense due to the abundance of stations in that particular area of the city. We can also notice the centralized nature of the trips, from the three other zones the majority of the trips goes to or from the center, while there are just a few trips made between these peripheric zones.
 

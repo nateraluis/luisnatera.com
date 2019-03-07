@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[To read the [english version.](https://luisnatera.com/posts/2019/07/MiBici-en/)]
+[To read the [english version.](https://luisnatera.com/posts/2019/03/MiBici-en/)]
 
 Durante los primeros días de Enero más de [600 nuevos usuarios](https://www.informador.mx/jalisco/MiBici-gana-61-usuarios-al-dia-durante-periodo-de-desabasto-20190112-0015.html) se unieron al servicio de MiBici producto del desabasto de gasolina que se vivía en la ciudad.
 
@@ -22,7 +22,7 @@ Para poder responder a estas preguntas lo primero es contar con datos, y una de 
 ## Resultados
 La primera red muestra la evolución por días del sistema, el tamaño de las estaciones representa el número de viajes originados en esa estación, mientras que el color y grosor de los vínculos es la cantidad de viajes entre dos estaciones.
 
-![](/images/MiBici_Day.gif)
+![](/images/MiBici_Month.gif)
 
 Una de las primeras observaciones es la concentración de viajes en el polígono central de la ciudad, es obvio por la cantidad de estaciones y las dinámicas propias de la ciudad, sin embargo es interesante ver como funciona también como un atractor de viajes del resto de las áreas, quienes conocen Guadalajara podrán notar los viajes de Zapopan, Chapalita y Tlaquepaque hacia el centro.
 
