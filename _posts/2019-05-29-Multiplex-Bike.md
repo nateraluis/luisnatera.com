@@ -1,5 +1,5 @@
 ---
-title: 'Multiplex fingerprints for bicycle network planning'
+title: 'From multiplex urban fingerprints to bicycle network planning'
 date: 2019-05-28
 permalink: /posts/2019/05/Multiplex-Bike/
 tags:
@@ -31,6 +31,6 @@ Our approach is to develop algorithms that find the most important missing links
 
 We keep investigating the effects and benefits of following an algorithmic approach to improve the bicycle layer in the multiplex mobility system. Our preliminary results indicates that with a small, focalized investment it is possible to have a great impact, making the point to grow and build the bicycle network, planning in a macro scale considering all the different areas of the city, instead of randomly adding bicycle infrastructure.
 
-Our manuscript will be getting to Arxiv soon, and was presented in NetSci 2019 in Burlington, you can check the slides here (clic on the image to move through the presentation):
+Our preprint will be getting to Arxiv soon, and was presented in NetSci 2019 in Burlington, you can check the slides here (clic on the image to move through the presentation):
 
 <iframe src="https://luisnatera.com/files/190529_NetSci_HTML" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
