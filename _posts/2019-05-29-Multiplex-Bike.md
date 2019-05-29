@@ -1,6 +1,6 @@
 ---
 title: 'Mi Bici + Redes'
-date: 2019-05-29
+date: 2019-05-28
 permalink: /posts/2019/05/Multiplex-Bike/
 tags:
   - Multiplex network
