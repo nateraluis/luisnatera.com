@@ -34,3 +34,5 @@ We keep investigating the effects and benefits of following an algorithmic appro
 Our preprint will be getting to Arxiv soon, and was presented in NetSci 2019 in Burlington, you can check the slides here (clic on the image to move through the presentation):
 
 <iframe src="https://luisnatera.com/files/190529_NetSci_HTML" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+**[Download the slides](/files/190529_NetSci.pdf)**
