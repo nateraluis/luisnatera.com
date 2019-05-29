@@ -1,6 +1,6 @@
 ---
 title: 'From multiplex urban fingerprints to bicycle network planning'
-date: 2019-05-28
+date: 2019-05-29
 permalink: /posts/2019/05/Multiplex-Bike/
 tags:
   - Multiplex network
