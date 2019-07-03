@@ -19,6 +19,7 @@ Dissertation: *Multilayer Urban Networks*
 Advisors: Michael Szell and Gerardo Iñiguez
 
 **M.S.** Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
+Advisor: Eduardo Quijano
 
 **B.A.** Architecture, ITESO, Tlaquepaque. Mexico, 2010
 
@@ -66,19 +67,20 @@ Advisors: Michael Szell and Gerardo Iñiguez
 ## Posters
 -------
 
-**Natera Orozco, L G.** "Budapest. Multilayer urban network" State of the Map. Milan, Italy. 2018
+**Natera Orozco, L G.** "Budapest. Multilayer urban network" State of the Map. Milan, Italy. 2018.
 
-**Natera Orozco, L G.**, Ábrego, V. "The evolution of twitter during the US elections" Data Stories. Budapest, Hungary. 2017
+**Natera Orozco, L G.**, Ábrego, V. "The evolution of twitter during the US elections" Data Stories. Budapest, Hungary. 2017.
 
 # Invited Talks
 ---------------------------
 ---------------------------
+"Multiplex urban fingerprints for bicycle network planning" ANET-Talks, ANET Lab, Hungarian Academy of Science. Budapest, Hungary. 2019.
 
-"Ciencia de redes para la ciudad" Signa\_Lab, ITESO. Tlaquepaque, Mexico. 2018
+"Ciencia de redes para la ciudad" Signa\_Lab, ITESO. Tlaquepaque, Mexico. 2018.
 
-"Código, Datos Abiertos y Ciudad" Encuentro de Urbanismo Alternativo, Centro Cultural de España en México. Mexico City, Mexico. 2015
+"Código, Datos Abiertos y Ciudad" Encuentro de Urbanismo Alternativo, Centro Cultural de España en México. Mexico City, Mexico. 2015.
 
-"Participación ciudadana, calle y nuevas tecnologías" II Simposio de ciudades y territorios incluyentes \"Derecho a la Ciudad\", Universidad Autónoma de Yucatán. Merida, Mexico. 2015
+"Participación ciudadana, calle y nuevas tecnologías" II Simposio de ciudades y territorios incluyentes \"Derecho a la Ciudad\", Universidad Autónoma de Yucatán. Merida, Mexico. 2015.
 
 # Conference Activity
 ---------------------------
@@ -89,13 +91,17 @@ Advisors: Michael Szell and Gerardo Iñiguez
 
 Presenting author *italicized*, if other.
 
-**Natera Orozco, L G.** Szell, M. "Characterizing cities from their multiplex infrastructure patterns" SICC Workshop ComplexCity\@PoliTo. Turin, Italy.
+**Natera Orozco, L. G.,** Battiston, G., Iñiguez González, G., and Szell, M. "Multiplex urban fingerprints for bicycle network planning" 2019 NetSci. Burlington, Vermont. May 27-31, 2019.
 
-**Natera Orozco, L G.** Gandarilla Martínez, R. "Quiosco Libre, reading network in the public space" Future of Places. Stockholm, Sweden.
+**Natera Orozco, L. G.,** Szell, M. "Characterizing cities from their multiplex infrastructure patterns" SICC Workshop ComplexCity\@PoliTo. Turin, Italy. 2018.
+
+**Natera Orozco, L. G.,** Gandarilla Martínez, R. "Quiosco Libre, reading network in the public space" Future of Places. Stockholm, Sweden. 2013.
 
 # Fellowships, Grants, and Awards
 ---------------------------
 ---------------------------
+
+- **2019** Ph.D. conference travel grant. CEU Budapest Foundation
 
 - **2018** Travel grant. Department of Network and Data Science, Central European University
 
@@ -109,8 +115,9 @@ Presenting author *italicized*, if other.
 
 ## ITESO
 -----
+- **2019** International summer (Network Science) Co-taught with Diego Arredondo (ITESO)
 
-- **2017** Network Science (Summer 2017) Co-taught with Emma Towlson (Northeastern University), Sean P. Cornelius (Northeastern University), and Ricardo Zavala (ITESO).
+- **2017** Network Science (Summer 2017) Co-taught with Emma Towlson (Northeastern University), Sean P. Cornelius (Northeastern University), and Ricardo Zavala (ITESO)
 
 - **2015 - 2017** Communication, Culture and Society (Spring 2016, 2017)
 
