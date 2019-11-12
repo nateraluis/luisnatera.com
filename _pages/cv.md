@@ -21,7 +21,7 @@ Advisors: Michael Szell and Gerardo Iñiguez
 **M.S.** Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
 Advisor: Eduardo Quijano
 
-**B.A.** Architecture, ITESO, Tlaquepaque. Mexico, 2010
+**B.Arch.** Architecture, ITESO, Tlaquepaque. Mexico, 2010
 
 # Academic Affiliations
 ---------------------------
@@ -46,6 +46,9 @@ Advisor: Eduardo Quijano
 # Publications
 ---------------------------
 ---------------------------
+## Journal Article Preprints
+---------------------------
+**Natera Orozco, L. G.**, Battiston, F., Iñiguez, G., Szell, M. "Data-driven strategies for optimal bicycle network growth" [*ArXiv ID: 1907.07080*](https://arxiv.org/abs/1907.07080)
 
 ## Peer-Reviewed Book Chapters
 ---------------------------
@@ -61,6 +64,7 @@ Advisor: Eduardo Quijano
 
 ## Proceedings, Reports, and Working Papers
 ----------------------------------------
+**Natera Orozco, L. G.**, Deritei, D., Vancso, A., and Vasarhelyi, O., “Quantifying life quality as walkability on urban networks : the case of Budapest,” in Proceedings of the 2019 Conference on Complex Networks and their Applications, 2019.
 
 **Natera Orozco, L G.** "Comunicación, ciudad e internet: flujos de información urbana en entornos digitales" VI Seminatio Internacional de Investigación en Urbanismo. Bogota, Colombia. 2014
 
@@ -74,13 +78,17 @@ Advisor: Eduardo Quijano
 # Invited Talks
 ---------------------------
 ---------------------------
-"Multiplex urban fingerprints for bicycle network planning" ANET-Talks, ANET Lab, Hungarian Academy of Science. Budapest, Hungary. 2019.
+* 4D Cities, Multi-Actor Systems Department, TU Delft. Delft, Netherlands.
 
-"Ciencia de redes para la ciudad" Signa\_Lab, ITESO. Tlaquepaque, Mexico. 2018.
+* Mobile and Social Computing Lab, Fondazione Bruno Kessler. Trento, Italy. 2019.
 
-"Código, Datos Abiertos y Ciudad" Encuentro de Urbanismo Alternativo, Centro Cultural de España en México. Mexico City, Mexico. 2015.
+* ANET-Talks, ANET Lab, Hungarian Academy of Science. Budapest, Hungary. 2019.
 
-"Participación ciudadana, calle y nuevas tecnologías" II Simposio de ciudades y territorios incluyentes \"Derecho a la Ciudad\", Universidad Autónoma de Yucatán. Merida, Mexico. 2015.
+* Signa\_Lab, ITESO. Tlaquepaque, Mexico. 2018.
+
+* Encuentro de Urbanismo Alternativo, Centro Cultural de España en México. Mexico City, Mexico. 2015.
+
+* II Simposio de ciudades y territorios incluyentes \"Derecho a la Ciudad\", Universidad Autónoma de Yucatán. Merida, Mexico. 2015.
 
 # Conference Activity
 ---------------------------
@@ -90,6 +98,8 @@ Advisor: Eduardo Quijano
 ------------------------
 
 Presenting author *italicized*, if other.
+
+**Natera Orozco, L. G.,** Battiston, G., Iñiguez González, G., and Szell, M. "Multiplex urban fingerprints for bicycle network planning" Cycling Research Board Meeting. Delft, Netherlands. October 31-1 November, 2019.
 
 **Natera Orozco, L. G.,** Battiston, G., Iñiguez González, G., and Szell, M. "Multiplex urban fingerprints for bicycle network planning" 2019 NetSci. Burlington, Vermont. May 27-31, 2019.
 
@@ -103,7 +113,7 @@ Presenting author *italicized*, if other.
 
 - **2019** Ph.D. conference travel grant. CEU Budapest Foundation
 
-- **2018** Travel grant. Department of Network and Data Science, Central European University
+- **2018, 19** Travel grant. Department of Network and Data Science, Central European University
 
 - **2015** Academic Stay at MIT. Mexican National Council of Science and Technology
 
@@ -112,6 +122,8 @@ Presenting author *italicized*, if other.
 # Teaching Experience
 ---------------------------
 ---------------------------
+## Central European University
+-**2019** Teaching assistant. Statistical methods for network science.
 
 ## ITESO
 -----
@@ -142,15 +154,20 @@ Presenting author *italicized*, if other.
 # Service
 ---------------------------
 ---------------------------
+## Journal Peer Review
+---------------------
+- Scientific Data
 
 ## Service to Department
 ---------------------
 
+- Ph.D. program representative, Central European University, DNDS, 2019-20
 - Co-organizer Data Stories visualization exhibition, Central European University, DNDS, 2018-19
 
 # Professional Affiliations
 ---------------------------
 ---------------------------
+- Network Science Society
 
 - Python Software Foundation
 
@@ -160,7 +177,7 @@ Presenting author *italicized*, if other.
 ---------------------------
 ---------------------------
 
-- Consultant on networks and data science
+- Maven7US City Data Scientist. Budapest, Hungary.
 
 - Mesura, Networks and Data Specialist. Guadalajara, Mexico.
 
