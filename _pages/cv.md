@@ -123,7 +123,7 @@ Presenting author *italicized*, if other.
 ---------------------------
 ---------------------------
 ## Central European University
--**2019** Teaching assistant. Statistical methods for network science.
+- **2019** Teaching assistant. Statistical methods for network science.
 
 ## ITESO
 -----
