@@ -15,3 +15,7 @@ redirect_from:
 * **[Teaching network science](https://luisnatera.com/posts/2019/07/NetSci-Workshop/)**, international summer at ITESO
 * **[From multiplex urban fingerprints to bicycle network planning.](https://luisnatera.com/posts/2019/05/Multiplex-Bike/)** Presentation at NetSci 2019. Burlington, VA. USA.
 * **[How a city bikes? Visualizing bicycle sharing data.](https://luisnatera.com/posts/2019/03/MiBici-en/)**
+
+### Upcomming talks
+* **8th International Conference on Complex Networks and their Applications**  
+December 10-12, 2019 - Lisbon, Portugal
