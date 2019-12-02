@@ -11,6 +11,7 @@ redirect_from:
 </div>
 
 ### Recent Articles and Posts
+**[New Paper!](https://luisnatera.com/posts/2019/12/Life-Quality/)** "Quantifying Life Quality as Walkability on Urban Networks: The Case of Budapest"
 * **[Teaching network science](https://luisnatera.com/posts/2019/07/NetSci-Workshop/)**, international summer at ITESO
 * **[From multiplex urban fingerprints to bicycle network planning.](https://luisnatera.com/posts/2019/05/Multiplex-Bike/)** Presentation at NetSci 2019. Burlington, VA. USA.
 * **[How a city bikes? Visualizing bicycle sharing data.](https://luisnatera.com/posts/2019/03/MiBici-en/)**

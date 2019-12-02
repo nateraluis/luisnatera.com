@@ -1,6 +1,6 @@
 ---
 title: 'Life quality as walkability'
-date: 2019-12-03
+date: 2019-12-02
 permalink: /posts/2019/12/Life-Quality/
 tags:
   - Life Quality
