@@ -1,6 +1,6 @@
 ---
 title: 'Fall talks.'
-date: 2019-11-22
+date: 2019-12-22
 permalink: /posts/2019/11/Fall-talks/
 tags:
   - Network Science

@@ -10,6 +10,7 @@ tags:
   - Networks
 ---
 
+**UPDATE: The preprint is now available at [ArXiv](https://arxiv.org/abs/1907.07080)**
 
 We all know that in some cities it is easier to move using a combination of mobility systems, than in others, but how does the cities enable this options, what are the change possibilities between cities, and more important, can we detect similar cities based on their mobility options?
 
