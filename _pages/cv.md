@@ -23,7 +23,7 @@ A pdf version is available for [download here](https://github.com/nateraluis/cv/
 
 **Ph.D.** Network Science, Central European University, Budapest, 2020 (expected)  
 Dissertation: *Multilayer Urban Networks*  
-Advisors: Michael Szell and Gerardo Iñiguez
+Advisors: Federico Battiston and Michael Szell
 
 **M.S.** Communication of Science and Culture, ITESO, Tlaquepaque. Mexico, 2015
 Advisor: Eduardo Quijano
