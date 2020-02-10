@@ -9,10 +9,9 @@ redirect_from:
 
 A pdf version is available for [download here](https://github.com/nateraluis/cv/raw/master/cv-natera.pdf "CV Luis Natera")
 
-
-<object data="https://github.com/nateraluis/cv/raw/master/cv-natera.pdf" type="application/pdf" width="700px" height="1024px">
-    <embed src="https://github.com/nateraluis/cv/raw/master/cv-natera.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/nateraluis/cv/raw/master/cv-natera.pdf">Download PDF</a>.</p>
+<object data="/files/cv-natera.pdf.pdf" type="application/pdf" width="700px" height="1024px">
+    <embed src="/files/cv-natera.pdf.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/cv-natera.pdf.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
