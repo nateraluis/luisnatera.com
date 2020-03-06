@@ -1,7 +1,7 @@
 ---
 title: 'Ciudades invisibles'
 date: 2020-02-22
-permalink: /posts/2020/03/Ciudades-invisibles/
+permalink: /posts/2020/03/Calles-Mujeres/
 tags:
   - Network Science
   - Talks
