@@ -11,4 +11,4 @@ tags:
 
 ¿Qué tan representadas están las mujeres en las ciudades?
 
-<iframe src="https://nateraluis.carto.com/builder/b7af5aef-eaf8-44e3-b2b5-520c44c8a674/embed"></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://nateraluis.carto.com/builder/b7af5aef-eaf8-44e3-b2b5-520c44c8a674/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
