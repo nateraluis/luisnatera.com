@@ -1,6 +1,6 @@
 ---
 title: 'Bicycle Algorithms'
-date: 2020-04-15
+date: 2020-12-16
 permalink: /posts/2020/12/BikeAlgorithms/
 tags:
   - Graph
