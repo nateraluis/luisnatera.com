@@ -1,7 +1,7 @@
 ---
-title: 'Leonhard Euler and Graph Theory'
+title: 'Bicycle Algorithms'
 date: 2020-04-15
-permalink: /posts/2020/04/Euler/
+permalink: /posts/2020/12/BikeAlgorithms/
 tags:
   - Graph
   - Multiplex network
