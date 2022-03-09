@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify"> I am a Ph.D. candidate of network science at the <a href="https://networkdatascience.ceu.edu/" target="_blank"> Department of Network and Data Science </a> at the Central European University, in Budapest, Hungary. My research revolves around urban mobility in multiplex urban networks, bridging urban planning and complex systems. I have experience working in academic, government and private sectors.
+<div style="text-align: justify"> I am a Ph.D. in network science from the <a href="https://networkdatascience.ceu.edu/" target="_blank"> Department of Network and Data Science </a> at the Central European University. My research revolves around urban mobility in multiplex urban networks, bridging urban planning and complex systems. I have experience working in academic, government and private sectors.
 </div>
 
 ### Recent Articles and Posts
