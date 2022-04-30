@@ -15,7 +15,7 @@ author-bio: Network Scientist & Data Analyst  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
-show-nav-menu: true
+show-nav-menu: false
 
 nav-menu:
   #- text: About

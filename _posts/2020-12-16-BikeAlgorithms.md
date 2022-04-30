@@ -1,12 +1,8 @@
 ---
+layout: post
 title: 'Bicycle Algorithms'
 date: 2020-12-16
-permalink: /posts/2020/12/BikeAlgorithms/
-tags:
-  - Graph
-  - Multiplex network
-  - Urban Mobility
-  - Data Visualization
+tags: Graph Multiplex network Urban Mobility Data Visualization
 ---
 
 I have a new paper out in Royal Society Open Science 🎉
