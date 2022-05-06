@@ -10,6 +10,7 @@ tags:
 Last November I defended my Ph.D. in Network Science. Even though I am the one awarded the degree, the process was influenced and supported by a multitud of people that set me up, encouraged me, and were present before and during the process of the studies, writing and defending the dissertation.
 
 The dissertation was about using Network Science for studying cities and their mobility infrastructure as a multilayer network. If anyone is interested in reading the dissertation  it is openly [available here](https://github.com/nateraluis/PhD-thesis/blob/main/natera-orozco_luis-guillermo.pdf).  If you do not want to read the whole dissertation, just read the acknowledgments, a big thank you to all the people who has been around. Here they are.
+
 ———
 
 The entire process of a doctoral program and dissertation involves an incredible support network. I would like to thank and acknowledge several people that have, whether realizing it or not, influenced this work. First, I would like to express my gratitude to my advisors Michaell Szell and Federico Battiston, for their tireless, caring support in this endeavor. Their guidance has been invaluable. I thank Gerardo Iñiguez for his contributions, guidance, and support.
