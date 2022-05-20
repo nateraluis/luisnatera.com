@@ -22,7 +22,7 @@ Para poder responder a estas preguntas lo primero es contar con datos, y una de 
 ## Resultados
 La primera red muestra la evolución por días del sistema, el tamaño de las estaciones representa el número de viajes originados en esa estación, mientras que el color y grosor de los vínculos es la cantidad de viajes entre dos estaciones.
 
-![](/images/MiBici_Month.gif)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/MiBici_Month.gif">
 
 Una de las primeras observaciones es la concentración de viajes en el polígono central de la ciudad, es obvio por la cantidad de estaciones y las dinámicas propias de la ciudad, sin embargo es interesante ver como funciona también como un atractor de viajes del resto de las áreas, quienes conocen Guadalajara podrán notar los viajes de Zapopan, Chapalita y Tlaquepaque hacia el centro.
 
@@ -30,11 +30,11 @@ Esta primera aproximación nos deja ver la dinámica del sistema, sin conocer re
 
 Usando las calles de la ciudad como una capa base (incluyendo los sentidos de las calles), localice las estaciones y sus intersecciones (cruces de calles) más cercanas. Con esta información calcule los caminos más cortos entre estaciones utilizando el algoritmo [Dijikstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) en la red dirigida de calles de la ciudad. Hice este con la idea de que los usuarios tienen conocimiento de la ciudad o utilizan una aplicación como Google Maps que les da el camino más corto entre estaciones. La siguiente red representa estos viajes por día durante todo el mes, al igual que el anterior los colores de las calles representan la cantidad de viajes y el tamaño de las estaciones los viajes originados en una estación en particular.
 
-![](/images/MiBici_Month_Streets.gif)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/MiBici_Month_Streets.gif">
 
 Cuando se agregan todos los viajes en una sola imagen tenemos una radiografía de las calles más utilizadas para circular en bicicleta. Esta red muestra que ciertas avenidas como López Mateos, Américas y Lázaro Cárdenas, entre otras, son altamente susceptibles de contener viajes ciclistas y sería lógico y deseable pensar en infraestructura ciclista designada.
 
-![](/images/GDL_Bikes_Streets.png)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/GDL_Bikes_Streets.png">
 
 ---
 El código utilizado para el análisis y visualización de los datos está disponible en mi [GitHub.](https://github.com/nateraluis/DataVisualization)
