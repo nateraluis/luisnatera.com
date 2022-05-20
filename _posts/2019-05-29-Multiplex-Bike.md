@@ -10,7 +10,7 @@ tags:
   - Networks
 ---
 
-**UPDATE: The preprint is now available at [ArXiv](https://arxiv.org/abs/1907.07080)**
+**UPDATE: The article has been published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.201130)**
 
 We all know that in some cities it is easier to move using a combination of mobility systems, than in others, but how does the cities enable this options, what are the change possibilities between cities, and more important, can we detect similar cities based on their mobility options?
 
@@ -20,7 +20,7 @@ One of the simplest features of single layer networks is the degree distribution
 
 To measure the multimodality we developed the overlap census of a city, a unique "multiplex urban finger print" of multimodality. This approach let us capture the percentage of nodes that are active in different multiplex configurations. Helping us to learn how much focus a city puts on connecting different transportation modes.
 
-![Overlap census clusters](/images/Census.png)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/Census.png">
 
 We build the overlap census for fifteen different cities in the world, and cluster them together based on similarity of their overlap census. We find six different clusters using a k-means algorithm (coloured areas). Detecting similar cities across the world. We see how some cities like Amsterdam, Barcelona, Portland have the majority of the nodes active in configurations in which the car is not active, while others like Phoenix, Mexico, and Beihai, have the majority of their nodes concentrated in car-active configurations.
 
@@ -32,7 +32,3 @@ Our approach is to develop algorithms that find the most important missing links
 
 We keep investigating the effects and benefits of following an algorithmic approach to improve the bicycle layer in the multiplex mobility system. Our preliminary results indicates that with a small, focalized investment it is possible to have a great impact, making the point to grow and build the bicycle network, planning in a macro scale considering and connecting first the existing bicycle infrastructure, instead of randomly adding bicycle infrastructure.
 
-***
-Keep an eye on [twitter](https://twitter.com/natera) our preprint will be getting to Arxiv soon. This work was presented in NetSci 2019 in Burlington, VT, and you can check the slides here (clic on the image to move through the presentation) or **[Download the PDF slides](/files/190529_NetSci.pdf)**
-
-<iframe src="https://luisnatera.com/files/190529_NetSci_HTML" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
