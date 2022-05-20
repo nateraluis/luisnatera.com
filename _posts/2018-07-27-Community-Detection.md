@@ -54,7 +54,7 @@ def find_communities(G):
 After getting the communities, I set the community attribute of the nodes in the streets network.
 
 ## Color
-![](/images/Barragan.png)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/Barragan.png">
 
 I started this experimentation because I wanted to use custom colors to generate a palette. I got inspired by [Luis Barragán](https://en.wikipedia.org/wiki/Luis_Barrag%C3%A1n) use of colors and decided to use his buildings to create the color palette.
 
@@ -86,4 +86,4 @@ save = False
 name = 'Guadalajara'
 fig, ax = ox.plot_graph(G_drive, bgcolor='black', node_color=nc, node_size=8.5, node_zorder=3, node_alpha=1, edge_linewidth=0.25, edge_color='white',edge_alpha=1,fig_height=20,close=True, show=True, save=save, filename=name, file_format='png')
 ```
-![](/images/Guadalajara.png)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/Guadalajara.png">
