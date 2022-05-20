@@ -21,7 +21,7 @@ With these questions in mind, I started to play around with some data from [MiBi
 ## Results
 The first result is the network bellow, where we can see the evolution of the network by day, the size of the stations represent the number of originated trips, while the color and thickness of the links represent the trips made between two stations.
 
-![](/images/MiBici_Month.gif)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/MiBici_Month.gif">
 
 The first thing we can notice is that the central part of the city is the most active one, this makes sense due to the abundance of stations in that particular area of the city. We can also notice the centralized nature of the trips, from the three other zones the majority of the trips goes to or from the center, while there are just a few trips made between these peripheric zones.
 
@@ -29,11 +29,11 @@ Now that we know how people are moving in the system, the next question is can w
 
 With the streets data and stations locations, I used [Dijikstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) to find the shortest path for all the trips that were made between stations. I did this following the idea that the bike users where going to use the shortest path to go form their origin to their destinations. Although this may not be true for all cases, it is a useful proxy to identify the theoretically most used streets. The next animation shows the commute activity by day adjusted to the shortest paths, the color represent the number of users, and the color and size of the stations are proportional to the number of originated trips.
 
-![](/images/MiBici_Month_Streets.gif)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/MiBici_Month_Streets.gif">
 
 When we aggregate all the day trips we obtain a clear image of the most used streets for biking. The resulting network could be used as a validation point for investing in bicycle infrastructure, we see some of the main avenues highlighted in red, indicating their importance in the biking system.
 
-![](/images/GDL_Bikes_Streets.png)
+<img class="mx-auto w-full" src="{{site.baseurl}}/assets/img/GDL_Bikes_Streets.png">
 
 ---
 The code for the analysis and the plots is available in this [GitHub repo.](https://github.com/nateraluis/DataVisualization)
