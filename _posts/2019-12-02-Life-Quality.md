@@ -18,7 +18,8 @@ We work with three different data sources: networks, points of interest and city
 The fundamental framework of our model and our calculations is the network representation of Budapest’s pedestrian infrastructure. The nodes of the network represent intersections, while links are sidewalks and pedestrian infrastructure. The output of our model is an index, that characterizes every node of the Budapest network, giving a high-resolution quality-landscape of the city. The index is ultimately a number aggregated from multiple sub-categories, and its main value is highlighting inequalities and relative deficiencies within the city.
 
 
-![Budapest pedestrian network](/images/Budapest_Network_voronoi2.png)
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/Budapest_Network_voronoi2.png">
+
 **(a)** Network representing Budapest pedestrian structure. The network was built following a primal approach, where the edges are sidewalks and pedestrian infrastructure, and nodes are intersections. **(b)** The graph-Voronoi tessellation of the Budapest network, generated using a subset of 15 parks as seeds. The color of the nodes represents the cell they belong to and the highlighted red dots are the seeds of each cell. The distance measure between two points is defined as the weighted shortest path on the graph, the weights being the average time required to cross a given edge.
   
    
@@ -26,7 +27,7 @@ For every service/amenity class we have a given set of points of interest (POI) 
 
 We quantify life quality in terms of each category (family support, education healthcare, sport, culture, nightlife, environment), and an overall measurement which contains all 6 categories and crime rate normalized by the population for the city of Budapest. Our method allows us to measure life quality for each intersection of the city, which helps to capture within neighborhood inequalities too. Analysis of the category level is beneficial for targeted policy interventions for better service allocation.
 
-![Budapest pedestrian network](/images/Budapest_LQI.png)
+<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/Budapest_LQI.png">
 
 Our results highlight that category LQI-s are highly correlated, less liveable neighborhoods are constant regardless of the amenity category, and well-performing neighborhoods do not change either. It is caused by two main factors: the lack of amenities and the relatively high walking distances in the suburbs.
 
