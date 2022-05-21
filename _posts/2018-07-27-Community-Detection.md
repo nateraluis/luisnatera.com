@@ -14,7 +14,11 @@ I've been playing around with visualizations for street networks, and as a way t
 The first step was to download the street network, for this I used [OSMnx](https://github.com/gboeing/osmnx), and project it to the coordinate system to be able to plot the streets.
 
 ```python
-G_drive = ox.graph_from_place('Guadalajara, Mexico', network_type='drive', simplify=True, which_result=2)
+G_drive = ox.graph_from_place(
+				'Guadalajara, Mexico',
+				network_type='drive', 
+				simplify=True, 
+				which_result=2)
 G_drive = ox.project_graph(G_drive)
 ```
 
@@ -47,7 +51,10 @@ def find_communities(G):
     communities_louvain= max(values)+1
     end_time = time.time()
     mod_louvain = louvain.modularity(partition,G_simple)
-    print('Communities found using the Louvain algorithm: {} \nModularity: {} \nTime for finding the communities: {} s'.format(communities_louvain, mod_louvain,round((end_time-start_time),3)))
+    print('Communities found using the Louvain algorithm: {}
+    			\nModularity: {} \nTime for finding the communities:
+					{} s'.format(communities_louvain, mod_louvain,
+					round((end_time-start_time),3)))
     return part_dic
 ```
 
@@ -60,7 +67,8 @@ I started this experimentation because I wanted to use custom colors to generate
 
 ```python
 #List of color
-Color_barragan = ['#E1CF3F','#F47757','#FD4581','#97577C','#BDA7A9','#E1CF3F','#F47757','#FD4581',
+Color_barragan = ['#E1CF3F','#F47757','#FD4581','#97577C',
+								 '#BDA7A9','#E1CF3F','#F47757','#FD4581',
                  '#e44623','#e45a6a','#c9d3e6','#7d513d',
                  '#e65949','#d6b240','#382a29','#d8d4c9',
                  '#e4cc34','#ccb42c','#bc8ca4','#3c84c4',
