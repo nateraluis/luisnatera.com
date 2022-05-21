@@ -68,7 +68,7 @@ I started this experimentation because I wanted to use custom colors to generate
 ```python
 #List of color
 Color_barragan = ['#E1CF3F','#F47757','#FD4581','#97577C',
-								 '#BDA7A9','#E1CF3F','#F47757','#FD4581',
+                 '#BDA7A9','#E1CF3F','#F47757','#FD4581',
                  '#e44623','#e45a6a','#c9d3e6','#7d513d',
                  '#e65949','#d6b240','#382a29','#d8d4c9',
                  '#e4cc34','#ccb42c','#bc8ca4','#3c84c4',
