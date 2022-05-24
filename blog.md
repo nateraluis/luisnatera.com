@@ -9,6 +9,7 @@ permalink: blog
     <div class="py-1">
       <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title}}</a></h3>
       <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
+      <div class="text-m text-black">{{post.abstract}}</div>
     </div>
   {% endfor %}
 </div>

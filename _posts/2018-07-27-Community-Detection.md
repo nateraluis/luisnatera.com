@@ -2,6 +2,7 @@
 title: 'Community detection'
 date: 2018-07-27
 permalink: /posts/2018/07/Community-Detection/
+abstract: Look for communities in street networks and apply custom colors to them.
 tags:
   - Network Science
   - Data Visualization
