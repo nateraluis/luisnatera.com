@@ -5,7 +5,7 @@ permalink: blog
 ---
 {% include heading.html heading=page.heading %}
 
-main class="py-6">
+<main class="py-6">
   {% for post in site.posts %}
   <div class="mb-12">
     {% include summary.html post=post %}
