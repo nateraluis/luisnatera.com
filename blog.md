@@ -3,15 +3,15 @@ layout: page
 title: Blog
 permalink: blog
 ---
-{% include heading.html heading=page.heading %}
 
-<main class="py-6">
+<div>
   {% for post in site.posts %}
-  <div class="mb-12">
-    {% include summary.html post=post %}
-  </div>
+    <div class="py-1">
+      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title}}</a></h3>
+      <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
+      <div class="text-m text-black">{{post.abstract}}</div>
+    </div>
   {% endfor %}
-</main>
-
+</div>
 
 
