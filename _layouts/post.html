@@ -11,7 +11,7 @@ layout: default
     {% if page.tags.size !=0 %}
       <i class="text-xs fas fa-tags"></i>
     {% for tag in page.tags %}
-      <div class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800">
+      <div class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-400 text-slate-800">
         <a class="!no-underline" href="{{site.baseurl}}/tag#{{ tag }}">{{ tag }}</a>
       </div>
     {% endfor %}
