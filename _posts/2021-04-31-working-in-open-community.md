@@ -27,7 +27,6 @@ I am very fortunate to be working on problems that are solved with open source t
 For those of you with a technical background, here's the solution I used, adapted from this [blog post.](https://naysan.ca/2020/06/21/pandas-to-postgresql-using-psycopg2-copy_from/)
 
 ```python
-```
 import psycopg2
 import pandas as pd
 import geopandas as gpd
@@ -87,4 +86,4 @@ def to_db(df, table):
 gdf = gpd.read_file('my_file.geojson') # Read the file
 df = gdf_to_df_geo(gdf) # Convert the GeoDataFrame to pandas.DataFrame
 to_db(df, 'table_data') # Upload the dataframe to postgres
-```````````````   
+```
