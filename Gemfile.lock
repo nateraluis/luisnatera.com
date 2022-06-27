@@ -29,6 +29,7 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-analytics (0.1.14)
     jekyll-feed (0.16.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-postcss-v2 (1.0.1)
@@ -73,6 +74,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2.1)
+  jekyll-analytics
   jekyll-postcss-v2
   jekyll-seo-tag
   minima (~> 2.5)

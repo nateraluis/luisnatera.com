@@ -1,5 +1,5 @@
 # change the followings to match your Github username and repo name
-baseurl: "https://luisnatera.com" # the name of your github repo
+baseurl: "/luisnatera.com" # the name of your github repo
 url: "https://luisnatera.com" # the url of your github pages
 
 # site information used in page title, meta data etc.
@@ -7,11 +7,11 @@ title: "Luis Natera, Ph.D."
 description: Network Scientist
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Luis Natera, Ph.D.
-author-bio: Network Scientist & Data Analyst  # change to false to hide
+author-bio: Network Scientist # change to false to hide
 author-image: profile.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -39,9 +39,13 @@ email: mailto:natera@hey.com
 footer-msg: false
 footer-msg-link: https://github.com/harrywang/tailpages
 
-# google analytics
-google-analytics: G-WCRC1TC2V5
 
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+    - jekyll-analytics
+
+jekyll_analytics:
+  Plausible:
+    domain: 'luisnatera.com'
+    source: "https://plausible.io/js/plausible.js"
