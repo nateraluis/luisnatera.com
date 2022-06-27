@@ -34,7 +34,8 @@ from io import StringIO
 from geoalchemy2 import Geometry, WKTElement
 
 def gdf_to_df_geo(gdf):
-    """Convert a GeoDataFrame into a DataFrame with the geometry column as text
+    """Convert a GeoDataFrame into a DataFrame with the geometry
+	column as text
 
     Args:
         gdf (geopandas.GeoDataFrame): GeoDataFrame to be converted
@@ -55,7 +56,10 @@ def get_cursor():
         pg_conn: psycopg2.connection
         psycopg2 cursor: Cursor to interact with the database
     """
-    pg_conn = psycopg2.connect(database='NAME_DATABASE', user='USER_DATABSE', password='PASSWORD', host='HOST_DATABASE')
+    pg_conn = psycopg2.connect(database='NAME_DATABASE',
+								user='USER_DATABSE',
+								password='PASSWORD',
+								host='HOST_DATABASE')
     cur = pg_conn.cursor()
     return pg_conn, cur
 
@@ -68,14 +72,20 @@ def to_db(df, table):
     """
 
     buffer = StringIO() #Create a buffer to save the dataframe
-    df.to_csv(buffer, index=False, header=False,
-              quoting=csv.QUOTE_NONNUMERIC, sep=',') #Save as CSV into memory
+    df.to_csv(buffer,
+				index=False,
+				header=False,
+				quoting=csv.QUOTE_NONNUMERIC,
+				sep=',') 
+    #Save as CSV into memory
     buffer.seek(0)
     conn = utils.connect()
     cursor = conn.cursor()
     try:
         #Copy to the database
-        cursor.copy_expert(f"""COPY {table} FROM STDIN WITH (FORMAT CSV)""", buffer) 
+        cursor.copy_expert(f"""COPY {table} FROM\
+						   STDIN WITH (FORMAT CSV)""", 
+						   buffer) 
         conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
         print(f'Error: {error}')
@@ -83,7 +93,10 @@ def to_db(df, table):
         cursor.close()
     cursor.close()
 
-gdf = gpd.read_file('my_file.geojson') # Read the file
-df = gdf_to_df_geo(gdf) # Convert the GeoDataFrame to pandas.DataFrame
-to_db(df, 'table_data') # Upload the dataframe to postgres
+# Read the file
+gdf = gpd.read_file('my_file.geojson') 
+# Convert the GeoDataFrame to pandas.DataFrame
+df = gdf_to_df_geo(gdf) 
+# Upload the dataframe to postgres
+to_db(df, 'table_data')
 ```
