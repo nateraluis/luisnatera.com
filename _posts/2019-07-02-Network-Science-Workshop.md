@@ -2,7 +2,7 @@
 title: 'Building links, teaching network science.'
 date: 2019-07-02
 permalink: /posts/2019/07/NetSci-Workshop/
-image: https://luisnatera.com/assets/imgs/Redes_ITESO01.png
+image: https://luisnatera.com/assets/img/Redes_ITESO01.png
 tags:
   - Network Science
   - Education
