@@ -43,7 +43,9 @@ def gdf_to_df_geo(gdf):
     Returns:
         pandas.DataFrame: DataFrame with the geometry as text 
     """    
-    gdf['geom'] = gdf['geometry'].apply(lambda x: WKTElement(x.wkt, srid=4326))
+    gdf['geom'] = gdf['geometry'].apply(lambda x:
+										WKTElement(x.wkt, 
+										srid=4326))
     # drop the geometry column as it is now duplicative
     gdf.drop('geometry', 1, inplace=True)
     gdf.rename(columns={'geom': 'geometry'}, inplace=True)
