@@ -19,10 +19,10 @@ author-image: profile.png  # file must be in the /assets/img/ folder
 show-nav-menu: True
 
 nav-menu:
-  #- text: About
-  #permalink: about
   #- text: Bitcoin
   #permalink: bitcoin
+- text: About
+  permalink: about
 - text: Blog
   permalink: blog
 
