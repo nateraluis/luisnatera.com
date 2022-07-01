@@ -16,14 +16,17 @@ Along my life I have worn multiple professional hats. In fact, I am an architect
 
 Before returning to the private sector I spent around 7 years working in different academic settings, first as an Executive coordinator for [Signa_Lab](https://signalab.mx/), a social networks research laboratory in Guadalajara, Mexico. After two years working at stabilising Signa_Lab, I moved to Budapest, Hungary to pursue my Ph.D. in Network Science. I spent four years working on multimodal urban networks and analyzing cities using large scale data and computational tools.
 
-### Network analyst & Jack of all trades
+### Network analyst
 
 I have worked a different startup level companies as a network and data analyst. During my time at these companies I was analyzing network data from social media sites to optimize advertising campaigns. As an early employee I was also wearing multiple hats and developing simple python tools to collect the data and automatize the analysis of such data.
 
 ### Public servant
 
+During a short time I worked as a public servant at the Mobility and Transportation Institute of Jalisco. At my time there I worked as a public policy analyst, working on projects related to the implementation of the public bike share system, and the technical guides needed for the evaluation, planning, and development of bicycle infrastructure.
 
 ### Architect & entrepreneur
+
+After finishing my bachelor in architecture I co-founded an architecture office with a friend. We developed private projects for the design, remodeling and construction of private houses and offices. Besides the privet work, we also developed non-for profit projects, such as urban installations to rise awareness about air pollution, and urban artifacts to extend the experience in the public space.
 
 ## What do I use to work?
 
