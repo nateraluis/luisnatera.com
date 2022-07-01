@@ -12,5 +12,19 @@ I am interested in the intersection between data, technology and cities. I have 
 
 Along my life I have worn multiple professional hats. In fact, I am an architect by training and I did designed and build a couple of houses and offices. Here are some of the hats I have worn:
 
-### Architect
+### Python developer
 
+### Academic
+
+### Data analyst & Jack of all trades
+
+### Public servant
+
+### Architect & entrepreneur
+
+## My online presence
+
+- I try to stay active on [Twitter](https://twitter.com/natera)
+- I from time to time post photos on [Instagram](https://instagram.com/natera)
+- I curate my professional experience on [LinkedIn](https://www.linkedin.com/in/natera/)
+- And I am available for [mails](mailto:natera@hey.com)
