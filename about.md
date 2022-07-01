@@ -22,7 +22,33 @@ Along my life I have worn multiple professional hats. In fact, I am an architect
 
 ### Architect & entrepreneur
 
-## My online presence
+## What do I use to work?
+
+Here is a list of the different tools and the software that I most commonly use for my day to day work and personal projects.
+
+### Computers and OS
+
+- Windows 10 (work)
+- Windows Subsystem for Linux (WSL2) + Ubuntu
+- macOS (personal)
+
+### Software
+
+- NeoVim
+- Python 3+
+	- Pandas
+	- GeoPandas
+	- OSMnx
+	- networkX
+- PostgreSQL + PostGIS
+- Blender
+- QGis
+
+## My online presence and where to find me
+
+I currently live in Amsterdam, and I'll be happy to chat more about technology, networks, cities, and different topics that I am passionate about. If you happen to be around [drop me an email](mailto:natera@hey.com) to catch-up. 
+
+I am also available online at:
 
 - I try to stay active on [Twitter](https://twitter.com/natera)
 - I from time to time post photos on [Instagram](https://instagram.com/natera)
