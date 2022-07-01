@@ -10,13 +10,15 @@ I am interested in the intersection between data, technology and cities. I have 
 
 ## What's my career history?
 
-Along my life I have worn multiple professional hats. In fact, I am an architect by training and I did designed and build a couple of houses and offices. Here are some of the hats I have worn:
-
-### Python developer
+Along my life I have worn multiple professional hats. In fact, I am an architect by training and I did designed and build a couple of houses and offices. Here are some of the hats I have worn before my current role:
 
 ### Academic
 
+Before returning to the private sector I spent around 7 years working in different academic settings, first as an Executive coordinator for [Signa_Lab](https://signalab.mx/), a social networks research laboratory in Guadalajara, Mexico. After two years working at stabilising Signa_Lab, I moved to Budapest, Hungary to pursue my Ph.D. in Network Science. I spent four years working on multimodal urban networks and analyzing cities using large scale data and computational tools.
+
 ### Data analyst & Jack of all trades
+
+
 
 ### Public servant
 
@@ -29,18 +31,18 @@ Here is a list of the different tools and the software that I most commonly use 
 ### Computers and OS
 
 - Windows 10 (work)
-- Windows Subsystem for Linux (WSL2) + Ubuntu
+- Windows Subsystem for Linux (WSL2) + Ubuntu = 😃
 - macOS (personal)
 
 ### Software
 
-- NeoVim
-- Python 3+
+- 👨‍💻 NeoVim
+- 🐍 Python 3+
 	- Pandas
 	- GeoPandas
 	- OSMnx
 	- networkX
-- PostgreSQL + PostGIS
+- 💾 PostgreSQL + PostGIS
 - Blender
 - QGis
 
