@@ -19,7 +19,8 @@ author-image: profile.png  # file must be in the /assets/img/ folder
 show-nav-menu: True
 
 collections:
-  - projects
+  projects:
+    output: true
 
 nav-menu:
   #- text: Bitcoin
