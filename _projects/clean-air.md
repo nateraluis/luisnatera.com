@@ -1,4 +1,5 @@
 ---
+layout: project
 title: 'Data for clean air'
 date: 2021-01-01
 permalink: /projects/2021/01/clean-air/
