@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Bicycle Algorithms'
 date: 2020-12-16
 tags: Graph Multiplex network Urban Mobility Data Visualization
