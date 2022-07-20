@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 
-Get to know me, in this place you might discover some random facts about me, my profesional trajectory, and even some tools I use to work.
+Get to know me, in this place you might discover some random facts about me, my professional trajectory, and even some tools I use to work.
 
 ![]({{site.imgsurl}}profile/Luis_Natera_profile.png)
 

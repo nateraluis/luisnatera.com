@@ -1,5 +1,5 @@
 ---
-layout: projects_page
+layout: page
 title: Projects
 permalink: projects
 ---
@@ -7,9 +7,11 @@ permalink: projects
   {% for project in site.projects %}
     <div class="py-1">
       <h2><a href="{{site.baseurl}}{{ project.url }}">{{ project.title}}</a></h2>
-	  <img src="{{ site.imgsurl }}{{ project.cover }}" class="max-w-full">
-      <div class="text-sm text-gray-400">{{project.date | date: "%B, %Y"}}</div>
+	  <a href="{{site.baseurl}}{{ project.url }}">
+	  <img src="{{ site.imgsurl }}{{ project.cover }}" class="max-w-full h-auto rounded-lg">
+	  </a>
       <div class="text-m text-black">{{project.abstract}}</div>
+      <h3><a href="{{site.baseurl}}{{ project.url }}">Read more.</a></h3>
     </div>
   {% endfor %}
 </div>
