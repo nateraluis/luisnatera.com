@@ -21,6 +21,8 @@ Measuring accessibility in cities has been a hot topic in the latest years. We a
 
 The accessibility index for Mexican cities uses OpenStreetMaps to generate a pedestrian network, then using open data from INEGI (the Mexico bureau of statistics) we mapped the supermarket, hospitals, and pharmacies. Using a network based approach we measured the accessibility levels to each one of those points of interest. Finally we aggregated the data to provide an unified index for multiple Mexican cities.
 
+![]({{site.imgsurl}}TEC001.png)
+
 The results of the project were circulated with decision makers to help them identify underserved areas in the city. Besides the engagement with public policy officials, we developed an [interactive visualization](https://observatoriodeciudades.mx/investigaciones/indice-de-proximidad/) to showcase the project and engage with a broader audience. 
 
 ### Technology stack
