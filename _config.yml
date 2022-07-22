@@ -29,6 +29,8 @@ nav-menu:
   permalink: about
 - text: Blog
   permalink: blog
+- text: Projects
+  permalink: projects
 
 # use false to turn off any social media links
 twitter: https://twitter.com/natera
