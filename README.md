@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/nateraluis/nateraluis.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/nateraluis/nateraluis.github.io/actions/workflows/pages/pages-build-deployment)
+
 # About
 
 Tailpages (Tailwind + Github Pages) is a Jekyll website template based on TailwindCSS, which can be hosted by Github for free. You can visit the demo site at [https://harrywang.me/](https://harrywang.me/).
