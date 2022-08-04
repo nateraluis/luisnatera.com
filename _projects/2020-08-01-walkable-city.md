@@ -12,8 +12,8 @@ tags:
 ---
 
 
-            |  
-:-------------------------:|:-------------------------:
+            | | 
+:-------------------------:|:-------------------------:|:-------------------------:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Observatorio-Ciudades/accesibilidad-urbana) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Measuring accessibility in cities has been a hot topic in the latest years. We are more aware of how being close to different services has a positive impact on how we experience the city, specifically how do we interact with our surrounding community. During the first months of COVID-19 urban accessibility was of even more importance as people tried to isolate and only go out to cover first necessities. Being close to a supermarket or pharmacy became a real asset. To understand how easily it was to isolate and has access to those first hand necessities, the *Tecnológico de Monterrey* invited me to collaborate in their [Urban Observatory](https://observatoriodeciudades.mx/) and develop an accessibility index.
