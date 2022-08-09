@@ -1,0 +1,29 @@
+name: 📒 weekly note
+on:
+  schedule:
+    - cron: 20 07 * * 1
+
+jobs:
+  create_issue:
+    name: Create weekle issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: 🧾 Create weekly issue for notes
+        uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
+        with:
+          assignees: "nateraluis"
+          labels: "weekly, content, blog"
+          title: "Weekly note ${{ env.TODAY }}"
+          body: |
+            ### Things to cover in the weekly post
+
+            - [ ] 🗓 Overview of the week
+            - [ ] 🐦 On Twitter
+            - [ ] 📼 Youtube
+            - [ ] 🧑‍💻 Around the web
+          pinned: true
+          close-previous: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
