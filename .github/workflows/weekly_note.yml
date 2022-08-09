@@ -18,8 +18,13 @@ jobs:
         with:
           assignees: "nateraluis"
           labels: "weekly, content, blog"
-          title: "Week in review {{ env.TODAY }}"
+          title: Week in review ${{ env.TODAY }}
           body: |
+            This is an automated issue to track the weekly post for [luisnatera.com/blog](https://luisnatera.com/blog).
+            The issue works as a repository for the links and thoughts to be published by the end of the week.
+
+            This is a first step in automating the publication process, the second step is to retrive the comments from the issue and create, automatically, the post and publish it.
+
             ### Things to cover in the weekly post
 
             - [ ] 🗓 Overview of the week
