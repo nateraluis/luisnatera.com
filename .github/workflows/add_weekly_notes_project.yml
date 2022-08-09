@@ -20,4 +20,3 @@ jobs:
           project-url: https://github.com/users/nateraluis/projects/2
           github-token: ${{ secrets.PROJECT_TOKEN }}
           labeled: blog, content
-          label-operator: AND
