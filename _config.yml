@@ -12,7 +12,7 @@ theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Luis Natera, Ph.D.
-author-bio: Network Scientist # change to false to hide
+author-bio: Geospatial Network Scientist # change to false to hide
 author-image: profile.png  # file must be in the /assets/img/ folder
 
 # navigation menu
