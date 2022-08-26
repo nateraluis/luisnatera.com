@@ -48,6 +48,7 @@ def write_content_to_post(content):
                 "[issues](https://github.com/nateraluis/nateraluis.github.io/issues) "
                 "of my [repo](https://github.com/nateraluis/nateraluis.github.io/) in "
                 "[GitHub](https://github.com/nateraluis)\n")
+        f.write("***\n")
         f.write("\n")
     print(f"✅ {current_date}-weekly.md post written.")
 
