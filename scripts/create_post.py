@@ -29,13 +29,23 @@ def get_content_from_issue(issue):
 def write_content_to_post(content):
     current_date = datetime.datetime.now().isoformat()[:10]
     with open(f"_posts/{current_date}-weekly.md", "w") as f:
+        f.write(f"---\nlayout: post\ntitle: {current_date} Week in Review\n date: {current_date}\n"
+                f"permalink: /posts/{datetime.datetime.now().year}/{datetime.datetime.now().month}/{current_date}-review/\n "
+                "tags:\n  - weekly\n  - review\n  - automated"
+                "\n---\n")
         for key in ['about', 'twitter', 'web']:
-            if key in content:
+            if f"#{key}" in content:
                 if key != 'about':
-                    f.write(f"# {key.capitalize()}\n")
+                    f.write(f"## {key.capitalize()}\n")
                 for text in content[f"#{key}"]:
-                    f.write(f"{text}\n")
+                    f.write(f"- {text}\n")
                 f.write("\n")
+        f.write("***\n")
+        f.write("🤖 This post was generated automatically by the weekly script, using content curated in the "
+                "[issues](https://github.com/nateraluis/nateraluis.github.io/issues) "
+                "of my [repo](https://github.com/nateraluis/nateraluis.github.io/) in "
+                "[GitHub](https://github.com/nateraluis)\n")
+        f.write("\n")
     print(f"✅ {current_date}-weekly.md post written.")
 
 
