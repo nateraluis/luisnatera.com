@@ -29,10 +29,10 @@ def get_content_from_issue(issue):
 def write_content_to_post(content):
     current_date = datetime.datetime.now().isoformat()[:10]
     with open(f"_posts/{current_date}-weekly.md", "w") as f:
-        f.write(f"---\ntitle: '{current_date} Week in Review'\n date: {current_date}\n"
-                f"permalink: /posts/{datetime.datetime.now().year}/{datetime.datetime.now().month}/{current_date}-review/\n "
-                "tags:\n  - weekly\n  - review\n  - automated"
-                "\n---\n")
+        f.write(f"---\ntitle: '{current_date} Week in Review'\ndate: {current_date}\n"
+                f"permalink: /posts/{datetime.datetime.now().year}/{datetime.datetime.now().month}/{current_date}-review/\n"
+                "tags:\n  - weekly\n  - review\n  - automated\n"
+                "---\n")
         for key in ['about', 'twitter', 'web']:
             if f"#{key}" in content:
                 if key != 'about':
