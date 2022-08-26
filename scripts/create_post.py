@@ -29,8 +29,7 @@ def get_content_from_issue(issue):
 def write_content_to_post(content):
     current_date = datetime.datetime.now().isoformat()[:10]
     with open(f"_posts/{current_date}-weekly.md", "w") as f:
-        current_date = '2022-08-01'
-        f.write(f"---\nlayout: post\ntitle: {current_date} Week in Review\n date: {current_date}\n"
+        f.write(f"---\ntitle: '{current_date} Week in Review'\n date: {current_date}\n"
                 f"permalink: /posts/{datetime.datetime.now().year}/{datetime.datetime.now().month}/{current_date}-review/\n "
                 "tags:\n  - weekly\n  - review\n  - automated"
                 "\n---\n")
