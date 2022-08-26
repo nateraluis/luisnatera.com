@@ -4,3 +4,4 @@ _site/
 files/Taquerias.html
 .jekyll-cache/
 .env
+.idea/
