@@ -1,0 +1,37 @@
+name: 👨‍💻 weekly post
+on:
+
+  schedule:
+    - cron: 20 05 * * 1
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: 🐍 Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+
+    - name: 👨‍💻 Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: 🤖 📒 Write post
+      env:
+        TOKEN_ISSUES: ${{ secrets.TOKEN_ISSUES }}
+      run: python scripts/create_post.py
+
+    - name: 🚀 Commit changes
+      run: |
+        git config --global user.email "natera@hey.com"
+        git config --global user.name "Luis Natera"
+        git add --all
+        git diff --staged --quiet || git commit -m 'New blog post'
+        git push
