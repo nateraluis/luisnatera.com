@@ -36,6 +36,7 @@ def write_content_to_post(content):
             "---\n"
         )
         tags = [k[1:] for k in content.keys()]
+        tags.sort()
         for key in tags:
             print(f"✍️ Writing {key}")
             if key != "about":
