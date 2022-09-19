@@ -55,8 +55,6 @@ def write_content_to_post(content):
             "[GitHub](https://github.com/nateraluis)\n"
         )
         f.write("***\n")
-        f.write("\n")
-        f.write("***\n")
     print(f"✅ {current_date}-weekly.md post written.")
 
 
