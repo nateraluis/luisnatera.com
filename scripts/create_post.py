@@ -12,7 +12,7 @@ def authenticated_github():
 
 
 def get_issue(g):
-    repo = g.get_repo("nateraluis/nateraluis.github.io")
+    repo = g.get_repo("nateraluis/luisnatera.com")
     issue = repo.get_issues(state="open", labels=["weekly"])[0]
     return issue
 
@@ -36,7 +36,7 @@ def write_content_to_post(content):
             "---\n"
         )
         tags = [k[1:] for k in content.keys()]
-        tags.sort()
+        tags.sort(key=str.casefold)
         for key in tags:
             print(f"✍️ Writing {key}")
             if key != "about":
@@ -54,7 +54,6 @@ def write_content_to_post(content):
             "of my [repo](https://github.com/nateraluis/nateraluis.github.io/) in "
             "[GitHub](https://github.com/nateraluis)\n"
         )
-        f.write("***\n")
     print(f"✅ {current_date}-weekly.md post written.")
 
 
