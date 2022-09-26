@@ -1,5 +1,5 @@
 # change the followings to match your Github username and repo name
-baseurl: "https://luisnatera.com" # the name of your github repo
+baseurl: "" # the name of your github repo
 url: "https://luisnatera.com" # the url of your github pages
 imgsurl: "https://luisnatera.com/assets/img/"
 issues_repo: nateraluis/luisnatera.com
