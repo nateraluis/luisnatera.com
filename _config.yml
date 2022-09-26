@@ -2,6 +2,7 @@
 baseurl: "https://luisnatera.com/" # the name of your github repo
 url: "https://luisnatera.com/" # the url of your github pages
 imgsurl: "https://luisnatera.com/assets/img/"
+issues_repo: nateraluis/luisnatera.com
 
 # site information used in page title, meta data etc.
 title: "Luis Natera, Ph.D."
