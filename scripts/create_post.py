@@ -23,7 +23,9 @@ def get_content_from_issue(issue):
         for word in comment.body.split():
             if "#" in word:
                 content[word].append(comment.body.replace(word, ""))
-    return content
+    if len(content) > 0:
+        return content
+    return None
 
 
 def write_content_to_post(content):
@@ -61,7 +63,10 @@ def main():
     g = authenticated_github()
     issue = get_issue(g)
     content = get_content_from_issue(issue)
-    write_content_to_post(content)
+    if content is not None:
+        write_content_to_post(content)
+    else:
+        print("❌ 📅 This week there is no content to write.")
 
 
 if __name__ == "__main__":
