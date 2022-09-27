@@ -3,9 +3,9 @@ title: 'Visualizing the Street Network of Budapest'
 date: 2017-12-19
 permalink: /posts/2017/12/Budapest-Street-Network/
 tags:
-  - Network Science
-  - Data Visualization
-  - Cities
+  - network science
+  - data visualization
+  - cities
 ---
 
 How can we understand a city through its infrastructure networks? This question was the starting point for my final project in the [Data Visualization class](https://courses.ceu.edu/courses/data-and-network-visualization-0) taught by Roberta Sinatra. The goal of the class was to gain insight into a data set through visualization.  

@@ -3,9 +3,9 @@ title: 'Some thoughts on interdisciplinary'
 date: 2021-03-12
 permalink: /posts/2021/07/interdisciplinary/
 tags:
-  - Network Science
-  - Science
-  - Interdisciplinary
+  - network science
+  - science
+  - interdisciplinary
 ---
 
 Lately, I have been thinking about interdisciplinary. During my academic and professional life, I have been working between borders of disciplines. I have moved through architecture, public policy, sociocultural studies, and recently network science (with application to urban studies). This path, at its best, is very entertaining, but sometimes it can feel as in the comic below.

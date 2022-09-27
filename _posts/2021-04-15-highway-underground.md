@@ -3,9 +3,9 @@ title: 'A highway underground'
 date: 2021-04-15
 permalink: /posts/2021/04/highway-underground/
 tags:
-  - Cities
-  - Mobility
-  - Technology
+  - cities
+  - mobility
+  - technology
 ---
 
 Last week, The Boring Company gave a sneak peek of the Las Vegas Loop. It is a tunnel, a fancy tunnel. It can be re-branded in a very Silicon Valley-ish term, but at the end is a tunnel for Teslas.

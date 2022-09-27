@@ -3,10 +3,10 @@ title: 'Life quality as walkability'
 date: 2019-12-02
 permalink: /posts/2019/12/Life-Quality/
 tags:
-  - Life Quality
-  - Walkability
-  - Urban Networks
-  - Budapest
+  - life quality
+  - walkability
+  - urban networks
+  - budapest
 ---
 
 Our new article ["Quantifying Life Quality as Walkability on Urban Networks: The Case of Budapest"](https://link.springer.com/chapter/10.1007/978-3-030-36683-4_72) has been published in the proceedings of the *International Conference on Complex Networks and Their Applications* (Access the [article](https://link.springer.com/chapter/10.1007/978-3-030-36683-4_72) and the [free PrePrint](https://arxiv.org/abs/1912.00893)). It is a colaboration with [Dávid Deritei](https://networkdatascience.ceu.edu/people/david-deritei), [Anna Vancsó](https://www.researchgate.net/profile/Anna_Vancso), and [Orsoyla Vásárhelyi](https://networkdatascience.ceu.edu/people/orsolya-vasarhelyi).

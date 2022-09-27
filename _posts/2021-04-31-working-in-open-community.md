@@ -3,9 +3,10 @@ title: 'The joy of working in an open community'
 date: 2021-04-31
 permalink: /posts/2017/12/working-in-open-community/
 tags:
-  - Geospatial data
-  - Python
-  - Cities
+  - geospatial 
+  - data
+  - python
+  - cities
 ---
 
 During the last month or so, I've been struggling/stuck solving data processing scripts. Fortunately, working in geospatial sciences and with an open technology stack, the community is always there to help.

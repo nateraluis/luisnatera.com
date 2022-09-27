@@ -3,8 +3,8 @@ title: 'Ph.D. Acknowledgements'
 date: 2022-01-14
 permalink: /posts/2022/01/acknowledgements/
 tags:
-  - PhD
-  - Networks
+  - phd
+  - networks
 ---
 
 Last November I defended my Ph.D. in Network Science. Even though I am the one awarded the degree, the process was influenced and supported by a multitud of people that set me up, encouraged me, and were present before and during the process of the studies, writing and defending the dissertation.

@@ -3,10 +3,10 @@ title: 'Bike Sharing Data for Planning'
 date: 2019-03-07
 permalink: /posts/2019/03/MiBici-en/
 tags:
-  - Urban Mobility
-  - Bikes
-  - Data Visualization
-  - Networks
+  - urban mobility
+  - bikes
+  - data visualization
+  - networks
 ---
 
 [Version en [español](https://luisnatera.com/posts/2019/03/MiBici-es/)]

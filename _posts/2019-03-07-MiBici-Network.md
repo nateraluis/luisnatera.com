@@ -3,10 +3,10 @@ title: 'Mi Bici + Redes'
 date: 2019-03-07
 permalink: /posts/2019/03/MiBici-es/
 tags:
-  - Urban Mobility
-  - Bikes
-  - Data Visualization
-  - Networks
+  - urban mobility
+  - bikes
+  - data visualization
+  - networks
 ---
 
 

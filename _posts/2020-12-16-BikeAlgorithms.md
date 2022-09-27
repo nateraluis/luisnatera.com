@@ -1,7 +1,11 @@
 ---
 title: 'Bicycle Algorithms'
 date: 2020-12-16
-tags: Graph Multiplex network Urban Mobility Data Visualization
+tags: 
+	- graph 
+	- multiplex network 
+	- urban mobility 
+	- data visualization
 ---
 
 I have a new paper out in Royal Society Open Science 🎉

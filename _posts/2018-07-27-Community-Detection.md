@@ -4,9 +4,9 @@ date: 2018-07-27
 permalink: /posts/2018/07/Community-Detection/
 abstract: Look for communities in street networks and apply custom colors to them.
 tags:
-  - Network Science
-  - Data Visualization
-  - Experimentation
+  - network science
+  - data visualization
+  - experimentation
 ---
 
 I've been playing around with visualizations for street networks, and as a way to practice and improve with the use of custom color palettes with matplotlib I decided to do an exercise to look for communities in a street network and plot them using a custom color palette. All the code is available in this [GitHub repo](https://github.com/nateraluis/Community-Detection/).

@@ -1,11 +1,11 @@
 ---
 title: 'GitHub Actions for Automating Blog Posts'
 date: 2022-09-27
-permalink: /posts/2022/09/github-actions-for-blog-posts/
+permalink: /posts/2022/9/github-actions-for-automating-blog-posts/
 tags:
-  - Automation
-  - GitHub
-  - Python
+  - automation
+  - github
+  - python
 ---
 
 As I started writing the [week in review,](https://luisnatera.com/tag#weekly) I wanted to automatize the process as much as possible. Reflecting on the work I have done in one week is not automatable, yet. However, building the post with the different elements needed can be automated.

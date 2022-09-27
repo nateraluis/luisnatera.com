@@ -3,9 +3,9 @@ title: 'Maps and literature'
 date: 2021-04-19
 permalink: /posts/2021/04/maps-and-literature/
 tags:
-  - Cities
-  - Maps
-  - Literature
+  - cities
+  - maps
+  - literature
 ---
 
 ![]({{site.imgsurl}}blank_map.png)

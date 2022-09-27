@@ -3,11 +3,11 @@ title: 'From multiplex urban fingerprints to bicycle network planning'
 date: 2019-05-29
 permalink: /posts/2019/05/Multiplex-Bike/
 tags:
-  - Multiplex network
-  - Urban Mobility
-  - Bikes
-  - Data Visualization
-  - Networks
+  - multiplex network
+  - urban mobility
+  - bikes
+  - data visualization
+  - networks
 ---
 
 **UPDATE: The article has been published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.201130)**

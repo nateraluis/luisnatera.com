@@ -4,9 +4,9 @@ date: 2019-07-02
 permalink: /posts/2019/07/NetSci-Workshop/
 image: https://luisnatera.com/assets/img/Redes_ITESO01.png
 tags:
-  - Network Science
-  - Education
-  - Play
+  - network science
+  - education
+  - play
 ---
 This Spring/Summer I was invited to teach an intro to network science course at ITESO as part of their international summer, an initiative that aims to connect students with international teachers. During four weeks the students attended intensive classes (4 hours per day, 4 days per week) first with a local teacher and the last two with the international one. In my case, I worked together with Diego Arredondo, on a course between data visualization and network science.
 
