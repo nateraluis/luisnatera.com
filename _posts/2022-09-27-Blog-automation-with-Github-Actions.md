@@ -2,6 +2,7 @@
 title: 'GitHub Actions for Automating Blog Posts'
 date: 2022-09-27
 permalink: /posts/2022/9/github-actions-for-automating-blog-posts/
+image: https://luisnatera.com/assets/img/github_actions_architecture.png
 tags:
   - automation
   - github
