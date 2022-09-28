@@ -29,6 +29,11 @@
                         href="{{site.baseurl}}/{{link.permalink}}">
                         {{link.text}}
                     </a>
+                    {% else %} <!-- don't show current page in menu -->
+                    <a class="text-sm text-gray-900 hover:text-gray-900 px-3 py-2 lg:py-1 mx-auto uppercase"
+                        href="{{site.baseurl}}/{{link.permalink}}">
+                        {{link.text}}
+                    </a>
                     {% endif %}
                 {% endfor %}
             </div>
