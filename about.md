@@ -39,17 +39,19 @@ Here is a list of the different tools and the software that I most commonly use 
 ### Computers and OS
 
 - Windows 10 (work)
-- Windows Subsystem for Linux (WSL2) + Ubuntu = 😃
+- Windows Subsystem for Linux (WSL2) + Ubuntu = 😃 (nice way to avoid windows for developing 😉)
 - macOS (personal)
 
 ### Software
 
 - 👨‍💻 NeoVim
+- 👨‍💻 PyCharm
 - 🐍 Python 3+
 	- Pandas
 	- GeoPandas
 	- OSMnx
 	- networkX
+- 🌎 Django
 - 💾 PostgreSQL + PostGIS
 - Blender
 - QGis
