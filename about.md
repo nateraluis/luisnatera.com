@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: about
+image: https://luisnatera.com/assets/img/profile/Luis_Natera_profile.webp
 ---
 
 Get to know me, in this place you might discover some random facts about me, my professional trajectory, and even some tools I use to work.
