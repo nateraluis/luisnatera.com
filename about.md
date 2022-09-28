@@ -6,7 +6,7 @@ permalink: about
 
 Get to know me, in this place you might discover some random facts about me, my professional trajectory, and even some tools I use to work.
 
-![]({{site.imgsurl}}profile/Luis_Natera_profile.png)
+![]({{site.imgsurl}}profile/Luis_Natera_profile.webp)
 
 Hi, my name is Luis G. Natera Orozco. I am **Geospatial Network Scientist**, currently working as a **Software Developer** at [SYSTEMIQ](https://systemiq.earth) where I have developed, among other projects, simulations for decarbonization of large scale industries, and web applications to design sustainable packaging  strategies. I hold a **Ph.D. in Network Science** at the Central European University, where I did my dissertation on [Multilayer network analysis of sustainable, multimodal urban transport networks](http://www.etd.ceu.edu/2022/natera_luis.pdf).
 
