@@ -14,7 +14,7 @@ For solving the puzzles, I will be working with with [Python](https://www.python
 
 For maintaining code quality I am using pre-commit hooks. The hooks are stored in `.pre-commit-config.yaml` and can be installed using `pre-commit install`.
 
-So here's the first problem:
+Here is the first problem:
 
 > This list represents the Calories of the food carried by five Elves
 >
@@ -24,9 +24,12 @@ So here's the first problem:
 
 ## Solution
 
+> **Warning**
+> Do not keep reading if you are participating in Advent of Code and **do not** want to see the solution.
+
 ### Part 1
 
-Firts, to get the data I will be using the `aocd` [library](https://github.com/wimglenn/advent-of-code-data) and storing the data for the first challenge in a variable:
+First, to get the data I used the `aocd` [library](https://github.com/wimglenn/advent-of-code-data) and stored the data for the first challenge in a variable:
 
 ```python
 import aocd
@@ -34,13 +37,13 @@ import aocd
 data = aocd.get_data(day=1, year=2022)
 ```
 
-The data is stored as a `string`, so I'll parse it splitting it by the lines between data entries, and store it in a list of lists, where I'll convert and store each entrie as an `integer`.
+The data was stored as a `string`, I parsed it by splitting the lines between data entries, and stored it in a list of lists, where I converted and stored each entire as an `integer`.
 
 ```python
 elves_food = [[int(food) for food in elves.splitlines()] for elves in data.split("\n\n")]
 ```
 
-Finally for getting the maximum number of calories I can get the maximum of the sum of lists:
+Finally for getting the maximum number of calories I got the maximum of the sum of lists:
 
 ``` python
 print("Max food calories: ", max(sum(elf) for elf in elves_food))
@@ -48,9 +51,11 @@ print("Max food calories: ", max(sum(elf) for elf in elves_food))
 
 ### Part 2
 
-The second parth of the challenge was to find the three Elves who have the most calories in their food, and sum the calories count to get the toal of calories by the top three Elves. 
+The second part of the challenge was to find the three Elves who have the most calories in their food, and sum the calories count to get the total of calories by the top three Elves. 
 
-To solve this part one can sum all the calories by Elf and then sort the list by the sum, or one can use a [Heap queue](https://en.wikipedia.org/wiki/Heap_(data_structure)), that was the way I went for. It was a nice way to get to know about Heap queues. The solution is as follows:
+To solve this part one can sum all the calories by Elf and then sort the list by the sum, or one can use a [Heap queue](https://en.wikipedia.org/wiki/Heap_(data_structure)), that was the way I went for. It was a nice way to get to know about Heap queues. 
+
+The solution is as follows:
 
 ```python
 import heapq 
