@@ -24,7 +24,8 @@ Here is the first problem:
 
 ## Solution
 
-> **Warning**
+> **⚠️ Warning**
+> 
 > Do not keep reading if you are participating in Advent of Code and **do not** want to see the solution.
 
 ### Part 1
