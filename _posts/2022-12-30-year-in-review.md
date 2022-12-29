@@ -1,6 +1,6 @@
 ---
 title: 'Year in Review 2022'
-date: 2022-12-29
+date: 2022-12-30
 permalink: /posts/2022/12/2022-review/
 tags:
   - review
