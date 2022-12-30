@@ -19,10 +19,28 @@ layout: default
   </div>
   {{content}}
 </div>
+<p><h3> 📬 Get the blog posts directly in your inbox: </h3></p>
+<form
+  action="
+    https://buttondown.email/api/emails/embed-subscribe/natera
+  "
+  method="post"
+  target="popupwindow"
+  class="embeddable-buttondown-form"
+>
+  <label for="email">Email</label>
+  <input
+    type="email"
+    name="email"
+    placeholder="you@gmail.com"
+  />
+  <input type="hidden" value="1" name="embed" />
+  <input type="submit" value="Subscribe" />
+</form>
 
 <div class="mx-auto text-left prose">
 	<p><h3> 💬 Join the conversation: </h3></p>
-	<p>Keep to conversation with a comment or reach out in my social networks</p>
+	<p>Keep to conversation with a comment or reach out in my social networks.</p>
 </div>
 {% include social-media.html %}
 <script src="https://utteranc.es/client.js"
