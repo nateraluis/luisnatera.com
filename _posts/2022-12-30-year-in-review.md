@@ -20,7 +20,7 @@ Getting into a new city also means building new relationships. Along this year w
 
 ![]({{site.imgsurl}}2022-amsterdam.webp)
 
-On the profesional side, the year saw me working with a team of colleagues on delivering a Python library and scripts 🧑‍💻 to model decarbonization processes in hard to abate industries. The code is currently powering simulations to find pathways to decarbonize the Aluminium, Ammonia, and Cement and Concrete industries. It was a challenging project, and a good learning opportunity. It is good to know that my work is contributing to build (or at least plan) a sustainable future. 
+On the professional side, the year saw me working with a team of colleagues on delivering a Python library and scripts 🧑‍💻 to model decarbonization processes in hard to abate industries. The code is currently powering simulations to find pathways to decarbonize the Aluminium, Ammonia, and Cement and Concrete industries. It was a challenging project, and a good learning opportunity. It is good to know that my work is contributing to build (or at least plan) a sustainable future. 
 
 Besides the decarbonization project, I also worked (and currently continue to work) on a web app using `Django`. I am working in this project as part of the developing team. This project has lead me to learn from senior developers, and it has been a great way to get to work with new technologies such as `HTMX` to build dynamic webpages only using `HTML` and just a little bit of `JavaScript`.
 
