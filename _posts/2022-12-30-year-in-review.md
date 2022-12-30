@@ -10,7 +10,7 @@ tags:
 
 2022 was a good year. It was a year of settling up, building, travel, and growing. Looking back, the year looks like it went too quickly, although, it was  a year full of experiences.
 
-The year started in Mexico, it is always good to be there, with family and friends. It was the first time since we moved to Europe that we spent the winter holidays back home, and it was a good decision to do so ☀️😎. On the profesional side, the start of the year was almost aligned with the start of my new job, and new project. As it turned out, it was a challenging project, but it turned out to be a good learning experience.
+The year started in Mexico, it is always good to be there, with family and friends. It was the first time since we moved to Europe that we spent the winter holidays back home, and it was a good decision to do so ☀️😎. On the professional side, the start of the year was almost aligned with the start of my new job, and new project. As it turned out, it was a challenging project, but it turned out to be a good learning experience.
 
 ![]({{site.imgsurl}}manzanillo.webp)
 
