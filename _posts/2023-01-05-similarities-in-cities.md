@@ -1,6 +1,7 @@
 ---
 title: 'Finding similarities in global cities using their mobility infrastructure'
 date: 2023-01-05
+permalink: /posts/2023/01/similarities-global-cities-mobility-infrastructure/
 tags: 
 	- graph 
 	- multiplex network 
@@ -22,7 +23,7 @@ For this approach we captured the "urban fingerprint" of fifteen cities in the w
 ![]({{site.imgsurl}}2023-01-05-multimodal.jpg)
 *(a) Schematic of multiplex layers in a city (left) and its transformation to the overlap census (right). (b) Clusters of cities based on similarity of their overlap census. (c) Overlap census for cities in each cluster. The first one corresponds to Amsterdam (the city with most active nodes in bicycle-only configurations). The Copenhagen-Manhattan-Barcelona-Portland city cluster has many active nodes in pedestrian-only and bicycle-only configurations, representing an active mobility city. The clusters of Los Angeles-Bogota and Mexico-Beihai-Jakarta are car-centric.*
 
-Using this technique, cities can be divided into distinct classes based on their transportation priorities, with some cities focusing more on active mobility infrastructure, while other cities prioritize a car-centric approach. The concentration of nodes in one layer or one configuration of the city informs not only about the mobility character of the city, but also unveils the importance of explicitly considering overlooked layes and their interconnections.
+Using this technique, cities can be divided into distinct classes based on their transportation priorities, with some cities focusing more on active mobility infrastructure, while other cities prioritize a car-centric approach. The concentration of nodes in one layer or one configuration of the city informs not only about the mobility character of the city, but also unveils the importance of explicitly considering overlooked layers and their interconnections.
 
 By understanding the ways in which different modes of transportation overlap and interact in a city, planners, city officials, and stakeholders can make more informed decisions about infrastructure investments and transportation policies. Additionally, the overlap census technique can be used to compare different cities and identify best practices for improving multimodality, and reduce car dependency. 
 
