@@ -6,14 +6,14 @@ issues_repo: nateraluis/luisnatera.com
 
 # site information used in page title, meta data etc.
 title: "Luis Natera, Ph.D."
-description: Network Scientist
+description: Software Developer | Network Scientist
 
 # color theme for links
 theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Luis Natera, Ph.D.
-author-bio: Geospatial Network Scientist # change to false to hide
+author-bio: Software Developer | Networks | Cities # change to false to hide
 author-image: profile.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -33,6 +33,7 @@ nav-menu:
 
 # use false to turn off any social media links
 twitter: https://twitter.com/natera
+mastodon: https://fosstodon.org/@natera
 facebook: false
 instagram: false
 github: https://github.com/nateraluis
