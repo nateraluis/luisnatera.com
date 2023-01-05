@@ -5,7 +5,8 @@ permalink: /posts/2023/01/similarities-global-cities-mobility-infrastructure/
 tags: 
 	- graph 
 	- multiplex network 
-	- urban mobility 
+	- urban mobility
+	- data visualization
 	- python
 ---
 
