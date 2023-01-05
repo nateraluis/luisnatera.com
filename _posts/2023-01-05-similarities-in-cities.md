@@ -6,7 +6,6 @@ tags:
 	- graph 
 	- multiplex network 
 	- urban mobility 
-	- data visualization
 	- python
 ---
 
