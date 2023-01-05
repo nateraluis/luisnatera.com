@@ -3,11 +3,11 @@ title: 'Finding similarities in global cities using their mobility infrastructur
 date: 2023-01-05
 permalink: /posts/2023/01/similarities-global-cities-mobility-infrastructure/
 tags: 
-	- graph 
-	- multiplex network 
-	- urban mobility
-	- data visualization
-	- python
+  - graph 
+  - multiplex network 
+  - urban mobility
+  - data visualization
+  - python
 ---
 
 When thinking about cities, it is a common place to think about how we move in them. We tend to associate Amsterdam with bicycle mobility, and Los Angeles as a city designed for cars. Using data, one can move from the common place to a data-driven approach, allowing us to identify these mobility infrastructure patterns and have a better overview of what is the transport that a city is optimized for.
