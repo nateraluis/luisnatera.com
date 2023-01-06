@@ -13,6 +13,8 @@ jobs:
     steps:
     - name: ➡️ Checkout the repo
       uses: actions/checkout@v2
+      with:
+        persist-credentials: false
 
     - name: 🐍 Set up Python 3.11
       uses: actions/setup-python@v2
