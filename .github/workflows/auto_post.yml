@@ -13,10 +13,6 @@ jobs:
     steps:
     - name: ➡️ Checkout the repo
       uses: actions/checkout@v2
-      with:
-        repository: nateraluis/luisnatera.com
-        token: ${{ secrets.PROJECT_TOKEN }}
-        persist-credentials: false
 
     - name: 🐍 Set up Python 3.11
       uses: actions/setup-python@v2
@@ -35,9 +31,8 @@ jobs:
 
     - name: 🚀 Commit changes
       run: |
-        git config --global user.username "nateraluis"
         git config --global user.email "natera@hey.com"
         git config --global user.name "Luis Natera"
         git add --all
-        git diff --staged --quiet || git commit -m 'New blog post'
+        git diff --staged --quiet || git commit -m '📝 New blog post'
         git push
