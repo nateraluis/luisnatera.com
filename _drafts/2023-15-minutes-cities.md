@@ -1,6 +1,6 @@
 ---
 title: '15-Minute Cities: Leveraging Software and Location Intelligence to Reimagine Urban Mobility'
-date: 2023-01-05
+date: 2023-01-12
 permalink: /posts/2023/01/15-minute-cities-leveraging-software-and-location-intelligence-to-reimagine-urban-mobility/
 tags: 
   - 15 minutes cities 
