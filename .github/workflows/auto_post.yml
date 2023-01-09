@@ -14,6 +14,7 @@ jobs:
     - name: ➡️ Checkout the repo
       uses: actions/checkout@v2
       with:
+        repository: nateraluis/luisnatera.com
         token: ${{ secrets.PROJECT_TOKEN }}
         persist-credentials: false
 
