@@ -34,6 +34,7 @@ jobs:
 
     - name: 🚀 Commit changes
       run: |
+        git config --global user.username "nateraluis"
         git config --global user.email "natera@hey.com"
         git config --global user.name "Luis Natera"
         git add --all
