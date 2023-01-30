@@ -1,7 +1,7 @@
 ---
-title: 'TIL GitHub Action Running After Another Action'
+title: 'TIL Running a GitHub Action After Another Action'
 date: 2023-01-30
-permalink: /posts/2023/01/github-actions-running-after-another-action/
+permalink: /posts/2023/01/running-a-github-action-after-another-action/
 tags:
   - til
   - github
