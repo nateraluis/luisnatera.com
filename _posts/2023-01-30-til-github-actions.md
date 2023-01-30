@@ -8,7 +8,7 @@ tags:
   - ci
 ---
 
-Today I had to deal with an issue on my CI/CD workflow for automating my weekly blog post. The problem: The action for creating the blog post ran, created the post, and pushed it back to the repo, but the deployment action was not triggered after it. Although, the deployment action is supposed to be triggered with pushes to the `main` branch:
+Today I had to deal with an issue on my CI/CD workflow for [automating](https://luisnatera.com/posts/2022/9/github-actions-for-automating-blog-posts/) my weekly blog post. The problem: The [action for creating the blog post](https://luisnatera.com/posts/2022/9/github-actions-for-automating-blog-posts/) ran, created the post, and pushed it back to the repo, but the deployment action was not triggered after it. Although, the deployment action is supposed to be triggered with pushes to the `main` branch:
 
 ```yml
 name: 🚀Deploy site
@@ -38,4 +38,4 @@ on:
 
 Now the action also runs after the workflow `👨‍💻 weekly post` has run and its status is `completed`.
 
-With that simple change, the workflow to write and publish a new week in review is complete, and it gets deployed after creating the blog post.
+With that simple change, the [workflow to write and publish a new week in review](https://luisnatera.com/posts/2022/9/github-actions-for-automating-blog-posts/) is complete, and it gets deployed after creating the blog post.
