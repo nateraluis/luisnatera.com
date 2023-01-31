@@ -5,3 +5,5 @@ files/Taquerias.html
 .jekyll-cache/
 .env
 .idea/
+cache/
+.ipynb_checkpoints/
