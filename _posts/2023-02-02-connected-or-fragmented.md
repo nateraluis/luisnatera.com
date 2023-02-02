@@ -2,7 +2,7 @@
 title: 'Connected or fragmented: Analyzing the State of Bicycle Infrastructure in Cities With Python'
 date: 2023-02-02
 permalink: /posts/2023/02/02-connected-or-fragmented-analyzing-bicycle-infrastructure-in-cities-with-python/
-image: /assets/img/2023-02-02-amsterdam-drive-bike-network.png
+image: https://luisnatera.com/assets/img/2023-02-02-amsterdam-drive-bike-network.png
 tags: 
   - cities
   - bicycles 
