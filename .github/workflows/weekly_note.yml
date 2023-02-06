@@ -34,7 +34,7 @@ jobs:
             - [ ] 🐦 On Twitter
             - [ ] 📼 Youtube
             - [ ] 🧑‍💻 Around the web
-          pinned: true
+          pinned: false
           close-previous: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
