@@ -45,4 +45,10 @@ The function takes a list of [connected components](https://en.wikipedia.org/wik
 
 Once that the missing link has been identified, the components can be connected. Following this approach and repeating it until all the components are connected into one single network can have a great impact in improving the bicycle connectivity in a city. Take the example from Budapest in the below video:
 
-Every time 
+<iframe src="https://player.vimeo.com/video/339035083" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Just by investing in five new kilometers, the network gets **from bellow 25%** of their connections in one component to **more than 50% 🤯**. It is a great return of the investment.
+
+By using this type of algorithms, it is possible to have targeted urban interventions to improve the bicycle infrastructure in cities efficiently and economically. These algorithmic approaches are not only useful for planning and improving cities, it also allows simulations of interventions to provide insights into how urban mobility systems behaves after certain changes.
+
+For sure the combination of computer science, network science, and the urban environment is fascinating. 
