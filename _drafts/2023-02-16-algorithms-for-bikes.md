@@ -20,18 +20,18 @@ The algorithm in Python looks as follows:
 
 ```python
 
-def L2S(wcc:list[nx.Graph])->dict[str, Union[int,float]]:
+def L2S(connected_components:list[nx.Graph])->dict[str, Union[int,float]]:
     '''
     Find the closest pair of nodes between two different connected components.
     ---
-    wcc: list connected components
+    connected_components: list connected components
 
     returns: dict nodes i and j and distance
     '''
-    closest_pair = {'i': 0, 'j': 0, 'dist': np.inf}
-    for i in wcc[0].nodes(data=True):
+    closest_pair: dict[str, Union[int,float]] = {'i': 0, 'j': 0, 'dist': np.inf}
+    for i in connected_components[0].nodes(data=True):
         i_coord = (i[1]['y'], i[1]['x'])
-        for j in wcc[1].nodes(data=True):
+        for j in connected_components[1].nodes(data=True):
             j_coord = (j[1]['y'], j[1]['x'])
             dist = euclidean_dist_vec(i_coord[0], i_coord[1], j_coord[0], j_coord[1])
             if dist < closest_pair['dist']:
@@ -41,9 +41,8 @@ def L2S(wcc:list[nx.Graph])->dict[str, Union[int,float]]:
     return closest_pair
 ```
 
+The function takes a list of [connected components](https://en.wikipedia.org/wiki/Component_(graph_theory)), represented as [NetworkX Graphs](https://networkx.org/documentation/stable/reference/classes/graph.html), and ordered by the size of the component. Then the main part of the algorithm is about finding the closest nodes between the two components.
 
-Video
+Once that the missing link has been identified, the components can be connected. Following this approach and repeating it until all the components are connected into one single network can have a great impact in improving the bicycle connectivity in a city. Take the example from Budapest in the below video:
 
-Results
-
-Paper.
+Every time 
