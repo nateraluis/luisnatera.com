@@ -20,7 +20,7 @@ The algorithm in Python looks as follows:
 
 ```python
 
-def L2S(connected_components:list[nx.Graph])->dict[str, Union[int,float]]:
+def largest_to_second(connected_components:list[nx.Graph])->dict[str, Union[int,float]]:
     '''
     Find the closest pair of nodes between two different connected components.
     ---
