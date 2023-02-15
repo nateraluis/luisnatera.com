@@ -2,7 +2,7 @@
 title: 'Using algorithms to improve bicycle infrastructure'
 date: 2023-02-16
 permalink: /posts/2023/02/16-using-algorithms-to-improve-bicycle-infrastructure/
-image: https://luisnatera.com/assets/img/2023-02-02-amsterdam-drive-bike-network.png
+image: https://luisnatera.com/assets/img/2023-02–16-Budapest-algorithms.gif
 tags: 
   - cities
   - bicycles 
