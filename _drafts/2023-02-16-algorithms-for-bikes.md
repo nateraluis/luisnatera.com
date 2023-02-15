@@ -1,7 +1,7 @@
 ---
-title: 'Using algorithms to improve bicycle infrastructure'
+title: 'Maximizing bike infrastructure: How to connect a fragmented bicycle network using python'
 date: 2023-02-16
-permalink: /posts/2023/02/16-using-algorithms-to-improve-bicycle-infrastructure/
+permalink: /posts/2023/02/maximizing-bike-infrastructure-how-to-connect-fragmented-bicycle-network-using-python/
 image: https://luisnatera.com/assets/img/2023-02–16-Budapest-algorithms.gif
 tags: 
   - cities
