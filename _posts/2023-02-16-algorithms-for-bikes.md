@@ -11,6 +11,9 @@ tags:
 
 Recently I wrote about how [fragment bicycle infrastructure](https://buttondown.email/natera/archive/connected-or-fragmented-analyzing-the-state-of/) can be (If you din't get the email, make sure to [subscribe here](https://buttondown.email/natera)), even Amsterdam has some missing connections in its bicycle network, although not as many as London. Getting to know that the network is not complete is the first step towards having a good bicycle infrastructure network. The next step? Connect it.
 
+![]({{site.imgsurl}}2023-02-16-London.png)
+*Comparison between London’s drive and bike networks. The drive network is consolidated into a single component, while the bike network has more than 3,000 different component. Data from [Open Street Map contributors](https://openstreetmap.org) retrieved in 2019.*
+
 There are multiple approaches one can follow to connect a broken network, or even to start one from scratch, such as following a grid triangulation, a minimum spanning tree based on seeds along the city, or using the existing bike network to find missing links and connect them.
 
 Most cities that already have some bicycle infrastructure in place can benefit of using an approach that takes the existing network as a seed to improve it.
@@ -49,6 +52,11 @@ Once that the missing link has been identified, the components can be connected.
 
 Just by investing in five new kilometers, the network gets **from bellow 25%** of their connections in one component to **more than 50% 🤯**. It is a great return of the investment.
 
+When this algorithm was applied to different cities around the world[1], it highlighted the posibilites for improvement in the bicycle networks. This is a first approach to improve the connectivity in bicycle networks, extra measures are needed to ensure that the network is cohesive, resilient, and improves the directness of the paths in the network.
+
 By using this type of algorithms, it is possible to have targeted urban interventions to improve the bicycle infrastructure in cities efficiently and economically. These algorithmic approaches are not only useful for planning and improving cities, it also allows simulations of interventions to provide insights into how urban mobility systems behaves after certain changes.
 
-For sure the combination of computer science, network science, and the urban environment is fascinating. 
+The combination of computer science, network science, and the urban environment is fascinating. 
+
+---
+1.    Natera Orozco Luis Guillermo, Battiston Federico, Iñiguez Gerardo and Szell Michael 2020 Data-driven strategies for optimal bicycle network growth *R. Soc. open sci.* 7:201130. 201130 http://doi.org/10.1098/rsos.201130
