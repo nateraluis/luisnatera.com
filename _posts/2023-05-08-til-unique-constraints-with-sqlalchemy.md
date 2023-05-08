@@ -1,7 +1,7 @@
 ---
 title: 'TIL setting up database constraints with sqlalchemy'
 date: 2023-05-08
-permalink: /posts/2023/05/til-setting-up-database-constraints-with-aqlalchemy/
+permalink: /posts/2023/05/til-setting-up-database-constraints-with-sqlalchemy/
 tags:
   - til
   - sqlalchemy
