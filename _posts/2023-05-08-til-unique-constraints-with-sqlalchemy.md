@@ -10,9 +10,9 @@ tags:
 
 Long time wihtout a [TIL](https://luisnatera.com/tag#til). Today I learn about how to set up constraints between two fields in a database with [sqlalchemy](https://www.sqlalchemy.org/).
 
-## The task.
+## The task
 
-We have a table in the database, that for one column stroing the name of a post, the name has to be unique, however, it has to be unique within the user, thus multiple users can have a post with the same name.
+We had a table in the database, that for one column that stores the name of a post, the name has to be unique, however, it has to be unique within the user, thus multiple users can have a post with the same name.
 
 ## The solution
 
