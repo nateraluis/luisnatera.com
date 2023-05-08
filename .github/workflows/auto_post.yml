@@ -27,6 +27,7 @@ jobs:
     - name: 🤖 📒 Write post
       env:
         TOKEN_ISSUES: ${{ secrets.TOKEN_ISSUES }}
+        BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
       run: python scripts/create_post.py
 
     - name: 🚀 Commit changes
