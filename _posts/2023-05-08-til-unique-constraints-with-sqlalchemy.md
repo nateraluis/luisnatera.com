@@ -8,7 +8,7 @@ tags:
   - python
 ---
 
-Long time wihtout a [TIL](https://luisnatera.com/tag#til). Today I learn about how to set up constraints between two fields in a database with [sqlalchemy](https://www.sqlalchemy.org/).
+Long time without a [TIL](https://luisnatera.com/tag#til). Today I learn about how to set up constraints between two fields in a database with [sqlalchemy](https://www.sqlalchemy.org/).
 
 ## The task
 
