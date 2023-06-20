@@ -1,8 +1,7 @@
 ---
-title: 'Tourists not wanted'
+title: 'The Amsterdam Paradox: When Tourism Becomes a Problem'
 date: 2023-06-22
-permalink: /posts/2023/04/tourists-not-wanted/
-image:
+permalink: /posts/2023/04/the-amsterdam-paradox-when-tourism-becomes-a-problem/
 tags: 
   - cities
   - humans 
