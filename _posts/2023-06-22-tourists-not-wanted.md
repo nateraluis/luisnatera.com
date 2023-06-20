@@ -1,6 +1,6 @@
 ---
 title: 'The Amsterdam Paradox: When Tourism Becomes a Problem'
-date: 2023-06-22
+date: 2023-06-19
 permalink: /posts/2023/04/the-amsterdam-paradox-when-tourism-becomes-a-problem/
 tags: 
   - cities
