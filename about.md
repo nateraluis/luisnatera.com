@@ -19,6 +19,8 @@ Along my life I have worn multiple professional hats. In fact, I am an architect
 
 ### Software developer
 
+[AerLabs](https://aerlabs.com), I am currently working as a software engineer at AerLabs, where we develop software to reduce the environmental impacts of aviation. I get to work with very intelligent and passionate people, developing software solutions for hard and specific problems in the aviation industry. To build such tools we use mostly Python based technologies.
+
 [Systemiq](https://systemiq.earth), I joined Systemiq after my Ph.D. as a software developer, there I developed, among other projects, simulations for decarbonization of large scale industries, and web applications to design sustainable packaging strategies. I got to work with very interesting people, working in solving hard problems and using different technologies, mostly Python based. It was there that I learned about [HTMX](https://htmx.org/), and got to work with it.
 
 ### Academic
