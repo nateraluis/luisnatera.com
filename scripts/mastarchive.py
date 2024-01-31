@@ -20,7 +20,7 @@ def write_favourites(issue, favourites):
     previous_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=7)
     previous_date = previous_date.replace(hour=0, minute=0, second=0, microsecond=0)
 
-    for status in favourites[:3]:
+    for status in favourites:
         if status['created_at'] >= previous_date:
             content = remove_html_tags(status['content'])
             url = status['url'].strip()
