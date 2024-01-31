@@ -7,3 +7,4 @@ files/Taquerias.html
 .idea/
 cache/
 .ipynb_checkpoints/
+__pycache__/
