@@ -13,7 +13,7 @@ It has been a long time since the last time that I published a non week in revie
 
 Back when I started writing the [week in review](https://luisnatera.com/tag#weekly) series I put together a workflow that allows me to use a GitHub issue to track the contents of the week in review, and then a GitHub action runs every Monday and collects the comments that I posted into the issue and based on logic that relies on hashtags builds the document and publishes into the blog. You can [read more about it here](https://luisnatera.com/posts/2022/9/github-actions-for-automating-blog-posts/). Since then I have been thinking on different ways that I can leverage small scripts to facilitate my writing workflow. The main one -still in planning stage- is making sure that what I publishes directly into [my blog](https://luisnatera.com) goes directly into the newsletter, as at the moment I have to copy/paste between systems. But that's for another time. The new addition: automate adding the Mastodon content that I found insightful during the week into the week in review.
 
-I started thinking about automating adding Mastodon posts into the week in review as I was copy/pasting and adding the links, it was not a difficult task, but it takes some time, and there were some times that I forgot about doing it. So I decided to do what any lazy programmer would do, automate it. The idea, have a script that every Monday before the week in review gets build and published, retrieves my favourite Mastodon posts from the week, and populate the GitHub issue with the posts texts and links to the posts. The solution: a Python script that is ran every Monday by a GitHub Action.
+I started thinking about automating adding Mastodon posts into the week in review as I was copy/pasting and adding the links, it was not a difficult task, but it takes some time, and there were some times that I forgot about doing it. So I decided to do what any lazy programmer would do, automate it. The idea, have a script that every Monday, before the week in review gets build and published, retrieves my favourite Mastodon posts from the week, and populate the GitHub issue with the posts texts and links back to the original posts. The solution: a Python script that is executed every Monday by a GitHub Action.
 
 To get more into details, I used [Mastodon.py](https://github.com/halcy/Mastodon.py) to interact with my Mastodon account using Python, then get my favourite posts, filter by the week, and post the favourited ones into the GitHub Issue.
 
@@ -29,7 +29,7 @@ def get_favourites():
     return mastodon.favourites()
 ```
 
-Used a helper function to clean the HTML tags from the texts, and write the contents from the Mastodon post with their links into the GitHub Issue with the bellow function:
+Once that I had the favourited posts, I use a helper function to clean the HTML tags from the texts, and write the contents from the Mastodon post with their links into the GitHub Issue with the bellow functions:
 
 ```python
 import datetime
@@ -54,7 +54,7 @@ def write_favourites(issue, favourites):
             issue.create_comment(text)
 ```
 
-The new script of 39 lines of Python allows now for a new automation of the newsletter, making sure that every week new links are populated, and integrates directly into my use of Mastodon.
+The new 39 lines of Python script allows now for a new automation of the newsletter, making sure that every week new links are populated, and integrates directly into my use of Mastodon.
 
 While working on complex coding projects is interesting, I still find very rewarding working on this small coding pieces that allows me to automatise certain parts of my workflows. By a quick calculation this lines of code might save me 3 to 5 minutes per week, compounding to 3,9 hours per year. Might be a small impact in terms of time, but it definitely has a big impact in terms of facilitating my workflow.
 
