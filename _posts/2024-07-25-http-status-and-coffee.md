@@ -14,15 +14,11 @@ What about the 418 status code? It's a fun one, it's called "I'm a teapot". It w
 
 The RFC 2324 is a fun read for sure. It defines the Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0), and it's a great example of how the internet can be fun. Take for example the Security Considerations section:
 
->  7. Security Considerations
-
-   Anyone who gets in between me and my morning coffee should be
-   insecure.
-
-   Unmoderated access to unprotected coffee pots from Internet users
-   might lead to several kinds of "denial of coffee service" attacks.
-   The improper use of filtration devices might admit trojan grounds.
-   Filtration is not a good virus protection method.
+>  **Security Considerations**
+> Anyone who gets in between me and my morning coffee should be insecure.
+> Unmoderated access to unprotected coffee pots from Internet users might lead to several kinds of "denial of coffee service" attacks.
+> The improper use of filtration devices might admit trojan grounds.
+> Filtration is not a good virus protection method.
 
 I for sure identify with the first security risk. 
 
